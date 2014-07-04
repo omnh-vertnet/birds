@@ -1,4 +1,4 @@
 birds
 =====
 
-Issue tracking for SNOMNH Bird data in the VertNet portal (portal.vertnet.org).
+Issue tracking for OMNH Bird data in the VertNet portal (portal.vertnet.org).
