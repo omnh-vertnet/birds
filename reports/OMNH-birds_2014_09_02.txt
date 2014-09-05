@@ -1,0 +1,133 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 581
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 1
+	Date: 2014-08-03 ; Times: 4
+	Date: 2014-08-04 ; Times: 4
+	Date: 2014-08-05 ; Times: 7
+	Date: 2014-08-10 ; Times: 2
+	Date: 2014-08-11 ; Times: 2
+	Date: 2014-08-12 ; Times: 3
+	Date: 2014-08-13 ; Times: 2
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-15 ; Times: 1
+	Date: 2014-08-18 ; Times: 2
+	Date: 2014-08-19 ; Times: 2
+	Date: 2014-08-20 ; Times: 7
+	Date: 2014-08-23 ; Times: 1
+	Date: 2014-08-24 ; Times: 3
+	Date: 2014-08-26 ; Times: 3
+	Date: 2014-08-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo regalis" ; Times: 1
+	Query: "Egretta thula" ; Times: 1
+	Query: ""butorides virescens" AND (NOT california)" ; Times: 1
+	Query: "flicker" ; Times: 1
+	Query: "type:specimen stateprovince:"Texas" specificepithet:atricapilla genus:Vireo mappable:1" ; Times: 1
+	Query: "institutioncode:omnh" ; Times: 1
+	Query: "willet" ; Times: 1
+	Query: "heermann" ; Times: 2
+	Query: "Charadrius montanus" ; Times: 2
+	Query: "Cepphus columba columba" ; Times: 3
+	Query: "eider" ; Times: 1
+	Query: "heron" ; Times: 1
+	Query: "house sparrow" ; Times: 3
+	Query: "specificepithet:corax genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: "surf scoter" ; Times: 6
+	Query: "cockatiel" ; Times: 1
+	Query: "dendragapus stateprovince:"new mexico"" ; Times: 3
+	Query: "Rhynchopsitta" ; Times: 2
+	Query: "Spheniscus demersus" ; Times: 3
+	Query: "gallus" ; Times: 1
+	Query: "institutioncode:omnh tissue:1" ; Times: 2
+	Query: "Chroicocephalus" ; Times: 1
+	Query: "gallus gallus" ; Times: 1
+	Query: "specificepithet:laysanensis genus:Anas" ; Times: 1
+	Query: "Ardea alba" ; Times: 2
+	Query: "Plegadis chihi" ; Times: 2
+	Query: "recordedby:ke* year >= 1953 year <= 1953" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT alaska) tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 273 download events in this period)
+Total number of records downloaded: 131 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 99
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-03 ; Times: 1
+	Date: 2014-08-05 ; Times: 5
+	Date: 2014-08-12 ; Times: 2
+	Date: 2014-08-13 ; Times: 2
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-18 ; Times: 1
+	Date: 2014-08-19 ; Times: 2
+	Date: 2014-08-24 ; Times: 1
+	Date: 2014-08-26 ; Times: 1
+	Date: 2014-08-27 ; Times: 2
+	Date: 2014-08-28 ; Times: 2
+	Date: 2014-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "dendragapus stateprovince:"new mexico"" ; Times: 1
+	Query: "buteo regalis" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "type:specimen (turdus) AND (NOT migratorius NOT merula NOT albicollis NOT philomelos NOT pilaris NOT ruficollis NOT rufopalliatus NOT olivaceus NOT obscurus)" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "tepic" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "country:"Mexico" specificepithet:cochlearius genus:Cochlearius" ; Times: 1
+	Query: ""Passerina versicolor" type:specimen" ; Times: 1
+	Query: "country:"Mexico" specificepithet:albus genus:Eudocimus" ; Times: 1
+	Query: "paradoxornis" ; Times: 2
+	Query: "anas laysanensis" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 3
+	Query: "country:"brazil"" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 103
+Total number of records retrieved from searches: 1328
+Number of download events that retrieved data from the resource: 59
+Total number of records downloaded: 17090
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 103
+Total number of records retrieved from searches: 1328
+Number of download events that retrieved data from the resource: 59
+Total number of records downloaded: 17090
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
