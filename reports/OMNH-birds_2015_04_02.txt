@@ -1,0 +1,181 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 772
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Finland ; Times: 1
+	Country: Germany ; Times: 6
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 48
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-05 ; Times: 3
+	Date: 2015-03-06 ; Times: 8
+	Date: 2015-03-07 ; Times: 3
+	Date: 2015-03-08 ; Times: 3
+	Date: 2015-03-09 ; Times: 3
+	Date: 2015-03-10 ; Times: 4
+	Date: 2015-03-11 ; Times: 12
+	Date: 2015-03-12 ; Times: 2
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-14 ; Times: 2
+	Date: 2015-03-15 ; Times: 4
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-27 ; Times: 1
+	Date: 2015-03-28 ; Times: 5
+	Date: 2015-03-29 ; Times: 2
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"grayson" stateprovince:"texas" genus:limnodromus" ; Times: 1
+	Query: "specificepithet:guajana genus:Pitta" ; Times: 3
+	Query: "dactylortyx thoracicus tamaulipas" ; Times: 1
+	Query: "Piping Plover" ; Times: 1
+	Query: "type:specimen specificepithet:sumatranus genus:corydon" ; Times: 1
+	Query: "saltator rufiventris" ; Times: 2
+	Query: "mallard" ; Times: 1
+	Query: "Montezuma quail year >= 1888 year <= 2014 mappable:1" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "Vireo flavifrons" ; Times: 1
+	Query: "athene cunicularia tissue" ; Times: 1
+	Query: "pectoral sandpiper" ; Times: 1
+	Query: "wood duck" ; Times: 1
+	Query: "dendrortyx year >= 1980 year <= 2015" ; Times: 1
+	Query: "oklahoma chickasaw" ; Times: 2
+	Query: "cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "anthus spinoletta" ; Times: 1
+	Query: "Callipepla squamata year >= 1990 year <= 2015" ; Times: 1
+	Query: "type:specimen specificepithet:superbus genus:Lamprotornis" ; Times: 1
+	Query: "Stigmatura budytoides" ; Times: 1
+	Query: "11020 aves genus:limnodromus" ; Times: 1
+	Query: "athene cunicularia tissue:1" ; Times: 1
+	Query: "loggerhead shrike" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "peucaea ruficauda" ; Times: 1
+	Query: "oklahoma murray" ; Times: 2
+	Query: "woodpecker" ; Times: 2
+	Query: "Megalaima faiostricta Thailand" ; Times: 1
+	Query: "Cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 2
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "semipalmated sandpiper" ; Times: 2
+	Query: "laysan albatross" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Catharus year >= 1933 year <= 1933" ; Times: 1
+	Query: "Anthus hodgsoni Thailand" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "pteroglossus inscriptus inscriptus" ; Times: 1
+	Query: "dark-eyed junco" ; Times: 1
+	Query: "oklahoma kaw" ; Times: 2
+	Query: "Lanius cristatus Thailand" ; Times: 1
+	Query: "Sterna repressa type:specimen" ; Times: 1
+	Query: "gavia immer" ; Times: 1
+	Query: "gray catbird" ; Times: 1
+	Query: "1724 specificepithet:carolinensis genus:sitta" ; Times: 1
+	Query: "Pycnonotus aurigaster Thailand" ; Times: 1
+	Query: "roseate spoonbill" ; Times: 6
+	Query: "OMNH 6690" ; Times: 3
+	Query: "Chordeiles minor year <= 1905" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 298 download events in this period)
+Total number of records downloaded: 1269 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 971
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 8
+	Country: Canada ; Times: 4
+	Country: Cyprus ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 10
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 4
+	Date: 2015-03-06 ; Times: 4
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-18 ; Times: 4
+	Date: 2015-03-22 ; Times: 2
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 5
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "passerina amoena" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "birds paraguay" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "laysan albatross" ; Times: 2
+	Query: "year <= 2015 distance(location,geopoint(41.36526606011106,-75.65460205078125))<17395" ; Times: 1
+	Query: "Anthus hodgsoni Thailand" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 446
+Total number of records retrieved from searches: 6514
+Number of download events that retrieved data from the resource: 104
+Total number of records downloaded: 6061
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 535
+Total number of records retrieved from searches: 7737
+Number of download events that retrieved data from the resource: 218
+Total number of records downloaded: 25336
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
