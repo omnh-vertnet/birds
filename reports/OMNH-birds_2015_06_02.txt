@@ -1,0 +1,208 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 959
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 5
+	Country: India ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 89
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 11
+	Date: 2015-05-06 ; Times: 14
+	Date: 2015-05-07 ; Times: 17
+	Date: 2015-05-10 ; Times: 4
+	Date: 2015-05-11 ; Times: 4
+	Date: 2015-05-12 ; Times: 4
+	Date: 2015-05-13 ; Times: 2
+	Date: 2015-05-14 ; Times: 8
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-18 ; Times: 8
+	Date: 2015-05-19 ; Times: 4
+	Date: 2015-05-20 ; Times: 9
+	Date: 2015-05-21 ; Times: 7
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-24 ; Times: 8
+	Date: 2015-05-25 ; Times: 3
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 2
+	Date: 2015-05-29 ; Times: 3
+	Date: 2015-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pericrocotus flammeus" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "rock earthcreeper" ; Times: 1
+	Query: "red-tailed hawk" ; Times: 1
+	Query: "stateprovince:"ohio" class:aves" ; Times: 1
+	Query: "grus antigone" ; Times: 1
+	Query: "Yellow Rail" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Yellow-throated vireo" ; Times: 2
+	Query: "yellow warbler" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "white-crowned" ; Times: 1
+	Query: "otus bakkamoena" ; Times: 1
+	Query: "Bubo scandiacus type:specimen" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 3
+	Query: "Caprimulgus carolinensis" ; Times: 1
+	Query: "copsychus malabaricus" ; Times: 4
+	Query: "common yellowthroat tissue:1" ; Times: 1
+	Query: "certhia americana year >= 1950 year <= 2015 mappable:1" ; Times: 1
+	Query: "Tringa guttifer" ; Times: 1
+	Query: "centropus toulou" ; Times: 1
+	Query: "red-tailed hawk type:specimen AND (NOT egg NOT eggs) year >= 1000 year <= 1907" ; Times: 1
+	Query: "red-tailed hawk type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Buteo" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 2
+	Query: "Cliff Swallow" ; Times: 3
+	Query: "10270" ; Times: 1
+	Query: "Chen caerulescens" ; Times: 1
+	Query: "american kestrel type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 1
+	Query: "cougar" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "francolinus francolinus" ; Times: 2
+	Query: "3996" ; Times: 1
+	Query: "hypsipetes madagascariensis" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 1
+	Query: "gracula religiosa" ; Times: 1
+	Query: "bird Arkansas stateprovince:"Arkansas" class:Aves year >= 1980 year <= 2015" ; Times: 1
+	Query: "Muscicapa Thailand" ; Times: 1
+	Query: "accipiter trivirgatus" ; Times: 2
+	Query: "Spizella pallida" ; Times: 1
+	Query: "specificepithet:ferruginea genus:calidris" ; Times: 1
+	Query: "Sedge Wren" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "white-crowned sparrow" ; Times: 4
+	Query: "turdoides affinis" ; Times: 5
+	Query: "pulsatrix" ; Times: 1
+	Query: "Lepidocolaptes angustirostris" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 2
+	Query: "Loriculus 1918" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 2
+	Query: "Falco sparverius type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 4
+	Query: "Least Tern" ; Times: 1
+	Query: "merlin" ; Times: 1
+	Query: "Coturnicops" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 2
+	Query: "Psittacula 1918" ; Times: 2
+	Query: "american kestrel" ; Times: 1
+	Query: "red-tailed hawk year >= 1000 year <= 1907" ; Times: 1
+	Query: "Aechmophorus" ; Times: 1
+	Query: "Spizella+pallida+United States+Washington" ; Times: 1
+	Query: "Aquila chrysaetos AND (NOT california) mappable:1" ; Times: 4
+	Query: "buteo jamaicensis highway type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "buteo jamaicensis interstate type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "county:"Douglas" specificepithet:galbula genus:Icterus year >= 1850 year <= 1955" ; Times: 1
+	Query: "psittacula eupatria" ; Times: 2
+	Query: "Limnothlypis swainsonii" ; Times: 2
+	Query: "Psittacula" ; Times: 1
+	Query: "porzana porzana" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "eurasian collared dove" ; Times: 1
+	Query: "Nucifraga columbiana" ; Times: 1
+	Query: "Greater Prairie Chicken" ; Times: 4
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "selasphorus rufus type:specimen" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen AND (NOT egg NOT eggs) year >= 1000 year <= 1907" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+	Query: "falco sparverius highway type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1980 year <= 2015" ; Times: 1
+	Query: "falco sparverius highway type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1950 year <= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 976 download events in this period)
+Total number of records downloaded: 4923 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2552
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 2
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-24 ; Times: 5
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:rupicola" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "Underwood" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: ""Passer domesticus" type:specimen tissue:1" ; Times: 1
+	Query: "country:"Philippines" class:Aves year <= 2015" ; Times: 1
+	Query: "Lepidocolaptes angustirostris" ; Times: 2
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 1
+	Query: "rock earthcreeper" ; Times: 1
+	Query: "klages brazil year >= 1920" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1955" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 561
+Total number of records retrieved from searches: 7473
+Number of download events that retrieved data from the resource: 132
+Total number of records downloaded: 10984
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 650
+Total number of records retrieved from searches: 8696
+Number of download events that retrieved data from the resource: 246
+Total number of records downloaded: 30259
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
