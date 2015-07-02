@@ -1,0 +1,244 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 2709
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Bolivia ; Times: 1
+	Country: Canada ; Times: 5
+	Country: Germany ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 136
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 2
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-05 ; Times: 5
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-09 ; Times: 5
+	Date: 2015-06-10 ; Times: 7
+	Date: 2015-06-11 ; Times: 11
+	Date: 2015-06-12 ; Times: 9
+	Date: 2015-06-15 ; Times: 3
+	Date: 2015-06-16 ; Times: 19
+	Date: 2015-06-17 ; Times: 5
+	Date: 2015-06-18 ; Times: 8
+	Date: 2015-06-19 ; Times: 9
+	Date: 2015-06-20 ; Times: 4
+	Date: 2015-06-22 ; Times: 9
+	Date: 2015-06-23 ; Times: 6
+	Date: 2015-06-24 ; Times: 3
+	Date: 2015-06-25 ; Times: 16
+	Date: 2015-06-26 ; Times: 8
+	Date: 2015-06-28 ; Times: 1
+	Date: 2015-06-29 ; Times: 12
+	Date: 2015-06-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "callipepla squamata year >= 1990 year <= 2015" ; Times: 1
+	Query: "institutioncode:omnh" ; Times: 2
+	Query: "baltimore oriole" ; Times: 1
+	Query: "gorsachius melanolophus" ; Times: 2
+	Query: "aves Georgia United States Piranga rubra" ; Times: 2
+	Query: "common eider skin" ; Times: 1
+	Query: "Sturgeon skeleton" ; Times: 1
+	Query: "genus:grus year >= 1977" ; Times: 1
+	Query: "riparia stateprovince:"alaska" class:aves" ; Times: 1
+	Query: "omnh 20000" ; Times: 7
+	Query: "piping plover" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "county:"logan" stateprovince:"Oklahoma"" ; Times: 7
+	Query: "prairie warbler" ; Times: 1
+	Query: "higgins" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "contopus virens year >= 1985 year <= 2015" ; Times: 1
+	Query: "county:"marshall" stateprovince:"Oklahoma"" ; Times: 5
+	Query: "cock of the rock" ; Times: 1
+	Query: "snow bunting type:specimen" ; Times: 1
+	Query: "Psittacula alexandri" ; Times: 2
+	Query: "institutioncode:OMNH tissue:1" ; Times: 3
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Botaurus tissue:1" ; Times: 3
+	Query: "aves Georgia United States Icteria virens" ; Times: 1
+	Query: "numida" ; Times: 1
+	Query: "Saltatricula" ; Times: 6
+	Query: "black-chinned" ; Times: 1
+	Query: "cathartes aura type:specimen (egg)" ; Times: 1
+	Query: "Anas discors x tissue:1" ; Times: 1
+	Query: "5675" ; Times: 1
+	Query: "wood thrush" ; Times: 1
+	Query: "cormorant (preserved) mappable:1" ; Times: 1
+	Query: "3778 class:aves" ; Times: 2
+	Query: "archilochus alexandri oklahoma" ; Times: 2
+	Query: "hermit thrush" ; Times: 2
+	Query: "monroe michigan" ; Times: 1
+	Query: "Selasphorus platycercus type:specimen tissue:1" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "omnh tissue" ; Times: 2
+	Query: "Cygnus melancoryphus" ; Times: 1
+	Query: "coccyzus americanus type:specimen" ; Times: 2
+	Query: "bobcat" ; Times: 1
+	Query: "numida meleagris" ; Times: 1
+	Query: "zonotrichia leucophrys leucophrys type:specimen tissue:1" ; Times: 1
+	Query: "class:Suliformes institutioncode:omnh" ; Times: 2
+	Query: "Red-naped sapsucker type:specimen" ; Times: 1
+	Query: "stateprovince:"oklahoma" specificepithet:fuscus" ; Times: 1
+	Query: "Dactylortyx thoracicus thoracicus" ; Times: 1
+	Query: "pipilo Jalisco" ; Times: 1
+	Query: ""FISH" institutioncode:omnh" ; Times: 2
+	Query: "ADAB class:aves" ; Times: 1
+	Query: "cormorant (preserved)" ; Times: 1
+	Query: "oklahoma museum sam noble" ; Times: 1
+	Query: "institutioncode:omnh tissue:1" ; Times: 5
+	Query: ""Anas discors" tissue:1" ; Times: 1
+	Query: "tadorna tadorna" ; Times: 2
+	Query: "asio otus" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:aves tissue:1" ; Times: 1
+	Query: "francolinus adspersus" ; Times: 1
+	Query: "vireo bellii" ; Times: 2
+	Query: "rynchops" ; Times: 2
+	Query: "barn swallow" ; Times: 1
+	Query: "omnh tissue:1" ; Times: 1
+	Query: "burrowing owl" ; Times: 1
+	Query: "omnh" ; Times: 3
+	Query: "francolinus clappertoni" ; Times: 4
+	Query: "black-legged kittiwake type:specimen" ; Times: 1
+	Query: "spruce grouse" ; Times: 2
+	Query: "mockingbird" ; Times: 1
+	Query: "Numida meleagris meleagris" ; Times: 1
+	Query: "H. A. Brown" ; Times: 1
+	Query: "centropus toulou" ; Times: 1
+	Query: "aethopyga siparaja" ; Times: 1
+	Query: "numida year >= 1960 year <= 1989" ; Times: 1
+	Query: "Fish institutioncode:omnh" ; Times: 1
+	Query: "cardinal" ; Times: 4
+	Query: "class:aves institutioncode:omnh" ; Times: 3
+	Query: "aves Georgia United States Icterus spurius" ; Times: 1
+	Query: "Swamp Sparrow" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: "Acryllium vulturinum year >= 1970 year <= 1979" ; Times: 1
+	Query: "snapping turtle" ; Times: 2
+	Query: "anas rubripes" ; Times: 1
+	Query: "common eider" ; Times: 1
+	Query: "gage county nebraska" ; Times: 2
+	Query: "numida year >= 1970 year <= 1979" ; Times: 1
+	Query: "colinus virginianus year >= 1990 year <= 2015" ; Times: 1
+	Query: "class:aves institutioncode:omnh tissue:1" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "dark-eyed junco" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 2
+	Query: "black-chinned hummingbird" ; Times: 2
+	Query: "specificepithet:buccinator genus:cygnus class:aves" ; Times: 1
+	Query: "stateprovince:"Alaska" specificepithet:townsendi genus:Myadestes year >= 1850 year <= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1524 download events in this period)
+Total number of records downloaded: 1871 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1638
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Denmark ; Times: 11
+	Country: France ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-05 ; Times: 4
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-08 ; Times: 2
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 3
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 5
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-25 ; Times: 5
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-27 ; Times: 1
+	Date: 2015-06-29 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "black-legged kittiwake type:specimen" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "snow bunting type:specimen" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "family:trochilidae AND skeleton type:specimen" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "pelagic cormorant type:specimen" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "Turdus olivaceus" ; Times: 1
+	Query: "klages 1923" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "amazilia beryllina" ; Times: 1
+	Query: "Cynanthus latirostris" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "country:"Bolivia" class:aves year >= 1960 year <= 2015" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "Spizella pallida Mexico" ; Times: 2
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "amazilia rutila" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "tufted puffin type:specimen" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "aves durango" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:aves tissue:1" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "Heliomaster constantii" ; Times: 1
+	Query: "aves Coahuila" ; Times: 1
+	Query: "tangara chilensis" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 714
+Total number of records retrieved from searches: 10182
+Number of download events that retrieved data from the resource: 176
+Total number of records downloaded: 12855
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 803
+Total number of records retrieved from searches: 11405
+Number of download events that retrieved data from the resource: 290
+Total number of records downloaded: 32130
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
