@@ -1,0 +1,246 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 133
+Number of records retrieved in searches: 1941
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Jamaica ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 13
+	Country: United States ; Times: 101
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 4
+	Date: 2015-07-02 ; Times: 13
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-05 ; Times: 1
+	Date: 2015-07-06 ; Times: 6
+	Date: 2015-07-09 ; Times: 4
+	Date: 2015-07-10 ; Times: 5
+	Date: 2015-07-11 ; Times: 1
+	Date: 2015-07-12 ; Times: 2
+	Date: 2015-07-13 ; Times: 4
+	Date: 2015-07-14 ; Times: 3
+	Date: 2015-07-15 ; Times: 10
+	Date: 2015-07-16 ; Times: 7
+	Date: 2015-07-17 ; Times: 5
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 8
+	Date: 2015-07-21 ; Times: 3
+	Date: 2015-07-22 ; Times: 4
+	Date: 2015-07-23 ; Times: 1
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-27 ; Times: 10
+	Date: 2015-07-28 ; Times: 4
+	Date: 2015-07-29 ; Times: 15
+	Date: 2015-07-30 ; Times: 8
+	Date: 2015-07-31 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "22774" ; Times: 1
+	Query: "broad-tailed hummingbird" ; Times: 2
+	Query: "Parkesia noveboracensis" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<96662.06742785237" ; Times: 1
+	Query: "institutioncode:omnh" ; Times: 3
+	Query: "14470" ; Times: 1
+	Query: "calidris canutus" ; Times: 4
+	Query: "Cistothorus platensis" ; Times: 2
+	Query: "stateprovince:"texas" specificepithet:bairdii" ; Times: 1
+	Query: "2464" ; Times: 1
+	Query: "loon" ; Times: 1
+	Query: "Gavia immer" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "summer tanager" ; Times: 1
+	Query: "campylorhynchus megalopterus" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<104719" ; Times: 1
+	Query: "Tympanuchus pallidicinctus type:specimen" ; Times: 3
+	Query: "Dryocopus tissue:1" ; Times: 1
+	Query: "skeleton Branta Sandvicensis" ; Times: 1
+	Query: "PEABODY BIRDS" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB)" ; Times: 1
+	Query: "geositta punensis" ; Times: 1
+	Query: "cygnus buccinator" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS)" ; Times: 1
+	Query: "gavia immer" ; Times: 2
+	Query: "ducula badia type:specimen" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "skeleton Phoebastria immutabilis" ; Times: 1
+	Query: "red-winged blackbird" ; Times: 4
+	Query: "Pterocles orientalis India skin" ; Times: 5
+	Query: "columba livia" ; Times: 1
+	Query: "5851" ; Times: 1
+	Query: "scrub jay" ; Times: 2
+	Query: "ruffed grouse" ; Times: 1
+	Query: "northern cardinal" ; Times: 3
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<141013" ; Times: 1
+	Query: "Chimney Swift" ; Times: 2
+	Query: "skeleton asio flammeus" ; Times: 1
+	Query: "specificepithet:motacilla genus:parkesia" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<104718.90122498687" ; Times: 1
+	Query: "Empidonax virescens" ; Times: 1
+	Query: "Mimus dorsalis" ; Times: 1
+	Query: "Pharomachrus mocinno type:specimen" ; Times: 3
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<100000" ; Times: 1
+	Query: "Montezuma Quail" ; Times: 1
+	Query: "greater yellowlegs type:specimen" ; Times: 3
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<100000" ; Times: 1
+	Query: "Branta Sandvicensis (skeleton)" ; Times: 1
+	Query: "western tanager" ; Times: 1
+	Query: "16002" ; Times: 1
+	Query: "pseudoseisura" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ)" ; Times: 1
+	Query: "megalaima haemacephala" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ)" ; Times: 1
+	Query: "county:"greer" stateprovince:"oklahoma"" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "specificepithet:bulocki genus:merops year >= 1910" ; Times: 1
+	Query: "buteo lagopus" ; Times: 1
+	Query: "barred owl" ; Times: 1
+	Query: "omnh 10000" ; Times: 2
+	Query: "county:"osage" stateprovince:"oklahoma"" ; Times: 1
+	Query: "stateprovince:"Alaska" specificepithet:tridactylus genus:Picoides" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "paradisaea apoda year >= 1980 year <= 2015" ; Times: 1
+	Query: "glaucidium cuculoides" ; Times: 1
+	Query: "Neochen jubata" ; Times: 1
+	Query: "ID 7218" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 2
+	Query: "Harpy Eagle" ; Times: 1
+	Query: "woodpecker" ; Times: 2
+	Query: "genus:Phalacrocorax year >= 1978" ; Times: 1
+	Query: "greater yellowlegs" ; Times: 1
+	Query: "parabuteo unicinctus" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "class:aves institutioncode:omnh" ; Times: 1
+	Query: "rufous-tailed jacamar" ; Times: 5
+	Query: "Laterallus" ; Times: 3
+	Query: "5280" ; Times: 1
+	Query: "Egretta thula type:specimen" ; Times: 1
+	Query: "skeleton Branta Sandvicensis AND (NOT incomplete)" ; Times: 1
+	Query: "rufous-tailed jacamar skin" ; Times: 1
+	Query: "Ochthoeca leucophrys" ; Times: 2
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM)" ; Times: 1
+	Query: "brown nuthatch" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<96662" ; Times: 1
+	Query: "8767" ; Times: 1
+	Query: "Loggerhead Shrike" ; Times: 1
+	Query: "acanthis flammea" ; Times: 1
+	Query: "Ochthoeca leucophrys leucophrys" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<129296" ; Times: 1
+	Query: "specificepithet:noveboracensis genus:Parkesia tissue:1" ; Times: 1
+	Query: "tanager" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1084 download events in this period)
+Total number of records downloaded: 2745 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1880
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 3
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 3
+	Date: 2015-07-06 ; Times: 10
+	Date: 2015-07-09 ; Times: 4
+	Date: 2015-07-11 ; Times: 1
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 3
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-19 ; Times: 3
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 2
+	Date: 2015-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyanocompsa parellina" ; Times: 2
+	Query: "Streptoprocne" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<119084" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Geospiza fortis" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 2
+	Query: "Geospiza scandens" ; Times: 1
+	Query: "specificepithet:olivacea genus:Certhidea" ; Times: 1
+	Query: "Saltator coerulescens" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "Ochthoeca leucophrys" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "skeleton Branta Sandvicensis AND (NOT incomplete)" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+	Query: "stateprovince:"Alaska" specificepithet:tridactylus genus:Picoides" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "Geospiza fuliginosa" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 3
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "Loggerhead Shrike" ; Times: 1
+	Query: "specificepithet:parvulus genus:Camarhynchus" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<129296" ; Times: 1
+	Query: "specificepithet:noveboracensis genus:Parkesia tissue:1" ; Times: 1
+	Query: "geositta punensis" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 847
+Total number of records retrieved from searches: 12123
+Number of download events that retrieved data from the resource: 221
+Total number of records downloaded: 15600
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 936
+Total number of records retrieved from searches: 13346
+Number of download events that retrieved data from the resource: 335
+Total number of records downloaded: 34875
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
