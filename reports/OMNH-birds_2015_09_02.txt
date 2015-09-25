@@ -1,0 +1,232 @@
+Report for Institution Code OMNH, Resource Birds
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 1518
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 147
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-03 ; Times: 4
+	Date: 2015-08-04 ; Times: 8
+	Date: 2015-08-05 ; Times: 4
+	Date: 2015-08-06 ; Times: 6
+	Date: 2015-08-07 ; Times: 9
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-11 ; Times: 14
+	Date: 2015-08-12 ; Times: 6
+	Date: 2015-08-13 ; Times: 3
+	Date: 2015-08-14 ; Times: 2
+	Date: 2015-08-15 ; Times: 4
+	Date: 2015-08-18 ; Times: 7
+	Date: 2015-08-19 ; Times: 6
+	Date: 2015-08-20 ; Times: 3
+	Date: 2015-08-21 ; Times: 5
+	Date: 2015-08-22 ; Times: 5
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 3
+	Date: 2015-08-25 ; Times: 6
+	Date: 2015-08-26 ; Times: 14
+	Date: 2015-08-27 ; Times: 5
+	Date: 2015-08-28 ; Times: 8
+	Date: 2015-08-29 ; Times: 8
+	Date: 2015-08-30 ; Times: 6
+	Date: 2015-08-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "gadwall" ; Times: 1
+	Query: "common greenshank" ; Times: 1
+	Query: "ardeotis type:specimen (skeleton)" ; Times: 1
+	Query: "5073" ; Times: 2
+	Query: "baltimore oriole" ; Times: 1
+	Query: "Horned Lark" ; Times: 2
+	Query: ""mountain plover"" ; Times: 3
+	Query: "4380" ; Times: 1
+	Query: "5907" ; Times: 1
+	Query: "caprimulgus carolinensis" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "falco sparverius year >= 1900 year <= 1910" ; Times: 1
+	Query: "jacana (skel OR skeleton)" ; Times: 1
+	Query: "copsychus malabaricus" ; Times: 3
+	Query: "yellow rail" ; Times: 1
+	Query: "turdoides affinis" ; Times: 1
+	Query: "Yellow Warbler" ; Times: 4
+	Query: "Mottled Duck" ; Times: 1
+	Query: "Grallaria rufula type:specimen" ; Times: 3
+	Query: "louisiana waterthrush" ; Times: 2
+	Query: "Anthus hodgsoni Thailand" ; Times: 1
+	Query: "falco sparverius type:specimen year >= 1970 year <= 1980" ; Times: 1
+	Query: "Grallaria rufula" ; Times: 1
+	Query: "green heron" ; Times: 2
+	Query: "roseate spoonbill" ; Times: 1
+	Query: "snow owl" ; Times: 2
+	Query: "snowy owl" ; Times: 1
+	Query: "Calcariidae (skel OR skeleton)" ; Times: 2
+	Query: "Caprimulgus longirostris" ; Times: 1
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "Melanopareia" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 2
+	Query: "zenaida asiatica" ; Times: 1
+	Query: "Rynchops" ; Times: 2
+	Query: "pelecanus (skel OR skeleton)" ; Times: 3
+	Query: "mummy" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 2
+	Query: "specificepithet:aura genus:cathartes year >= 1990 year <= 2015 tissue:1" ; Times: 1
+	Query: "Dendrocolaptes (skel OR skeleton)" ; Times: 1
+	Query: "Pterocles orientalis India skin" ; Times: 5
+	Query: "crypsirina temia" ; Times: 2
+	Query: "Megaceryle (skel OR skeleton)" ; Times: 6
+	Query: ""colinus virginianus" type:specimen tissue:1" ; Times: 1
+	Query: "oriole (icterus)" ; Times: 1
+	Query: "setophaga petechia type:specimen" ; Times: 1
+	Query: "Stigmatura budytoides type:specimen" ; Times: 1
+	Query: "Rynchops niger" ; Times: 3
+	Query: "Struthio camelus" ; Times: 1
+	Query: "falco femoralis country:"Mexico"" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "anhinga (skel OR skeleton)" ; Times: 2
+	Query: "white stork" ; Times: 1
+	Query: "bonasa umbellus" ; Times: 1
+	Query: "Xenicus" ; Times: 1
+	Query: "Hirundinidae Thailand" ; Times: 2
+	Query: "Ammodramus bairdii" ; Times: 1
+	Query: "Pseudocolopteryx" ; Times: 1
+	Query: "Willow Flycatcher" ; Times: 1
+	Query: "Sturnella neglecta year <= 1895" ; Times: 1
+	Query: "falco sparverius type:specimen year >= 1950 year <= 1960" ; Times: 1
+	Query: "horned owl" ; Times: 1
+	Query: "Polioptilidae (skel OR skeleton)" ; Times: 1
+	Query: "grackle" ; Times: 1
+	Query: "pulsatrix" ; Times: 1
+	Query: ""pelecanus occidentalis" year >= 2000 year <= 2015" ; Times: 1
+	Query: "3601" ; Times: 1
+	Query: "bonasa umbellus type:specimen" ; Times: 2
+	Query: "White-throated Sparrow" ; Times: 4
+	Query: "sora" ; Times: 1
+	Query: "omnh 289" ; Times: 5
+	Query: "veery" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "short-eared owl" ; Times: 2
+	Query: "Paradisaeidae (skel OR skeleton)" ; Times: 1
+	Query: "6213" ; Times: 1
+	Query: "specificepithet:auritus genus:Phalacrocorax year >= 1918" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 2
+	Query: "Pitta guajana skin type:specimen" ; Times: 1
+	Query: "year <= 1850" ; Times: 1
+	Query: "oklahoma state university" ; Times: 1
+	Query: "coturnix coturnix" ; Times: 3
+	Query: "Heliomaster furcifer" ; Times: 6
+	Query: "Haliaeetus leucocephalus (skel OR skeleton)" ; Times: 1
+	Query: "Somateria mollissima type:specimen genus:Somateria year >= 1800 year <= 2015" ; Times: 1
+	Query: "falco sparverius type:specimen year >= 1940 year <= 1950" ; Times: 1
+	Query: "zenaida asiatica year >= 1999 year <= 2015" ; Times: 2
+	Query: "6547" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "13148" ; Times: 1
+	Query: "Contopus virens type:specimen" ; Times: 1
+	Query: "Buff-breasted Sandpiper" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1138 download events in this period)
+Total number of records downloaded: 1339 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1206
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 51
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-04 ; Times: 4
+	Date: 2015-08-05 ; Times: 4
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-10 ; Times: 2
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-13 ; Times: 3
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 10
+	Date: 2015-08-18 ; Times: 2
+	Date: 2015-08-19 ; Times: 1
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-27 ; Times: 2
+	Date: 2015-08-28 ; Times: 2
+	Date: 2015-08-29 ; Times: 5
+	Date: 2015-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Aegothelidae" ; Times: 1
+	Query: "Butastur indicus" ; Times: 1
+	Query: ""eclectus"" ; Times: 2
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "amazona" ; Times: 1
+	Query: "Quiscalus mexicanus type:specimen" ; Times: 1
+	Query: "Pelecanus occidentalis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Arremon" ; Times: 1
+	Query: ""melospiza melodia" tissue:1" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Piaya cayana" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 4
+	Query: "country:Brazil" ; Times: 2
+	Query: "rallus limicola" ; Times: 1
+	Query: "contopus genus:contopus (tissue)" ; Times: 2
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Troglodytidae" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "class:aves (feather)" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "Grallaria rufula type:specimen" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Tragopan type:specimen" ; Times: 1
+	Query: "Anthus hodgsoni Thailand" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Grallaria rufula" ; Times: 2
+	Query: "paradisaeidae" ; Times: 1
+	Query: "Cracidae" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "sora" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 147
+Total number of records retrieved from searches: 1518
+Number of download events that retrieved data from the resource: 51
+Total number of records downloaded: 1339
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 147
+Total number of records retrieved from searches: 1518
+Number of download events that retrieved data from the resource: 51
+Total number of records downloaded: 1339
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
