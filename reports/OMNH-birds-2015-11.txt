@@ -1,0 +1,196 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 341
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 7
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 5
+	Date: 2015-11-18 ; Times: 3
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-03 ; Times: 2
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-10 ; Times: 4
+	Date: 2015-11-13 ; Times: 2
+	Date: 2015-11-12 ; Times: 9
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-14 ; Times: 4
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-16 ; Times: 7
+	Date: 2015-11-04 ; Times: 4
+	Date: 2015-11-23 ; Times: 2
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-28 ; Times: 4
+	Date: 2015-11-02 ; Times: 2
+	Date: 2015-11-25 ; Times: 3
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-06 ; Times: 5
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-05 ; Times: 5
+	Date: 2015-11-24 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo regalis" ; Times: 1
+	Query: "Corydon Aves type:specimen" ; Times: 1
+	Query: "23206" ; Times: 1
+	Query: "22626" ; Times: 1
+	Query: "23209" ; Times: 1
+	Query: "Corydon type:specimen" ; Times: 1
+	Query: "corydon" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 2
+	Query: "genus:Plectropterus preparations:skeleton" ; Times: 1
+	Query: "locality:Valliant county:&#34;McCurtain&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "8113" ; Times: 1
+	Query: "flycatcher country:&#34;Mexico&#34; year &gt;= 1958 year &lt;= 1958" ; Times: 1
+	Query: "myophonus caeruleus" ; Times: 1
+	Query: "tragopan satyra" ; Times: 1
+	Query: "monkey" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (militaris)" ; Times: 1
+	Query: "mummy" ; Times: 3
+	Query: "19118" ; Times: 1
+	Query: "23207" ; Times: 1
+	Query: "10993" ; Times: 1
+	Query: "genus:Oxyura preparations:skeleton" ; Times: 1
+	Query: "carolina parakeet" ; Times: 2
+	Query: "long-billed curlew year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "Catherpes tissue:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "merops leschenaulti" ; Times: 1
+	Query: "genus:Cygnus preparations:skeleton" ; Times: 1
+	Query: "balearica tissue" ; Times: 1
+	Query: "Himantopus himantopus tissue:1" ; Times: 1
+	Query: "song sparrow type:specimen year &gt;= 1900 year &lt;= 2015 distance(location,geopoint(33.90689555128866,-118.157958984375))&lt;138568" ; Times: 1
+	Query: "salpinctes obsoletus tissue:1" ; Times: 2
+	Query: "long-billed curlew" ; Times: 2
+	Query: "8934" ; Times: 1
+	Query: "cerorhinca tissue:1" ; Times: 1
+	Query: "Larus marinus tissue:1" ; Times: 1
+	Query: "brazilian birds" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus" ; Times: 2
+	Query: "blue jay" ; Times: 1
+	Query: "pteroclidae" ; Times: 1
+	Query: "heliomaster furcifer" ; Times: 4
+	Query: "type:specimen order:Psittaciformes (severus)" ; Times: 3
+	Query: "class:aves recordedby:Fleming" ; Times: 1
+	Query: "sandhill crane" ; Times: 1
+	Query: "eastern bluebird" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (Anodorhynchus)" ; Times: 1
+	Query: "Egretta tricolor" ; Times: 4
+	Query: "specificepithet:carolinensis genus:poecile year &gt;= 1815 year &lt;= 1915" ; Times: 1
+	Query: "canyon wren" ; Times: 1
+	Query: "psittacula eupatria" ; Times: 1
+	Query: "specificepithet:carolinensis genus:poecile tissue:1" ; Times: 1
+	Query: "11531" ; Times: 1
+	Query: "genus:Aythya preparations:skeleton" ; Times: 1
+	Query: "genus:Clangula preparations:skeleton" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 2
+	Query: "genus:Dendrocygna preparations:skeleton" ; Times: 1
+	Query: "barred Owl" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 4
+	Query: "genus:Tadorna preparations:skeleton" ; Times: 1
+	Query: "type:specimen genus:Nandayus order:Psittaciformes year &gt;= 1900" ; Times: 1
+	Query: "Pine Siskin" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 751 download events in this period)
+Total number of records downloaded: 7156
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 21
+	Country: Sweden ; Times: 5
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 3
+	Country: Japan ; Times: 10
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-12 ; Times: 13
+	Date: 2015-11-02 ; Times: 4
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-16 ; Times: 3
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-09 ; Times: 3
+	Date: 2015-11-19 ; Times: 2
+	Date: 2015-11-24 ; Times: 2
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-26 ; Times: 3
+	Date: 2015-11-05 ; Times: 2
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-21 ; Times: 3
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "chrysococcyx cupreus" ; Times: 1
+	Query: "phytotoma rara" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "phytotoma rutila" ; Times: 1
+	Query: "family:Anhimidae preparations:skeleton" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "class:Aves country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Thraupis sayaca" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1977" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "genus:Plectropterus preparations:skeleton" ; Times: 1
+	Query: "genus:Oxyura preparations:skeleton" ; Times: 1
+	Query: "ploceus" ; Times: 2
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "peucaea aestivalis type:specimen preparations:skin institutioncode:OMNH" ; Times: 1
+	Query: "genus:Branta preparations:skeleton" ; Times: 1
+	Query: "distance(location,geopoint(18.224133787422407,-66.59088134765625))&lt;75606" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Corvus corax type:specimen mappable:1" ; Times: 1
+	Query: "puffinus" ; Times: 1
+	Query: "genus:Melanitta preparations:skeleton" ; Times: 1
+	Query: "genus:Bucephala preparations:skeleton" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "genus:Anas preparations:skeleton" ; Times: 1
+	Query: "Hypothymis" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "genus:Tadorna preparations:skeleton" ; Times: 1
+	Query: "common myna" ; Times: 2
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "genus:Aythya preparations:skeleton" ; Times: 1
+	Query: "genus:Clangula preparations:skeleton" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "halcyon leucocephala" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1986" ; Times: 1
+	Query: "Corydon Aves type:specimen" ; Times: 2
+	Query: "ispidina picta" ; Times: 1
+	Query: "genus:Lophonetta preparations:skeleton" ; Times: 1
+
+
+End of report.
