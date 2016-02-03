@@ -1,0 +1,221 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 168
+Number of records retrieved in searches: 1895
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 129
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 2
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 11
+	Country: Denmark ; Times: 4
+	Country: Thailand ; Times: 2
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 5
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-11 ; Times: 17
+	Date: 2015-09-12 ; Times: 3
+	Date: 2015-09-13 ; Times: 2
+	Date: 2015-09-14 ; Times: 40
+	Date: 2015-09-15 ; Times: 2
+	Date: 2015-09-16 ; Times: 3
+	Date: 2015-09-17 ; Times: 11
+	Date: 2015-09-18 ; Times: 7
+	Date: 2015-09-19 ; Times: 2
+	Date: 2015-09-08 ; Times: 2
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-29 ; Times: 15
+	Date: 2015-09-07 ; Times: 8
+	Date: 2015-09-06 ; Times: 2
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-03 ; Times: 7
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-24 ; Times: 3
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 6
+	Date: 2015-09-21 ; Times: 3
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-22 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "colibri (skel OR skeleton)" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "specificepithet:fruticeti genus:Phrygilus" ; Times: 2
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM NOT AMNH NOT CUML NOT FMNH NOT MLZ NOT UMMZ NOT USNM NOT LACM NOT ANSP)" ; Times: 1
+	Query: "Hall Nebraska" ; Times: 2
+	Query: "snomnh" ; Times: 1
+	Query: "Butastur indicus" ; Times: 2
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM NOT AMNH NOT CUML NOT FMNH NOT MLZ NOT UMMZ)" ; Times: 1
+	Query: "Swainson thrush" ; Times: 5
+	Query: "pycnonotus cafer" ; Times: 1
+	Query: "omnh birds" ; Times: 2
+	Query: "rissa tridactyla (skin)" ; Times: 1
+	Query: "Mississippi Aves Oktibbeha" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "county:&#34;osage&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "northern bobwhite" ; Times: 1
+	Query: "crypsirina temia" ; Times: 31
+	Query: "omnh birds mexico" ; Times: 1
+	Query: "merlin" ; Times: 1
+	Query: "omnh" ; Times: 3
+	Query: "Colinus type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "type:specimen year &gt;= 2008 institutioncode:OMNH tissue:1" ; Times: 1
+	Query: "mummy" ; Times: 10
+	Query: "Ampeliceps coronatus" ; Times: 3
+	Query: "white crowned" ; Times: 1
+	Query: "Colinus virginianus type:specimen tissue:1" ; Times: 1
+	Query: "Chlidonias (skel OR skeleton)" ; Times: 1
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "Common Grackle" ; Times: 1
+	Query: "flammulated owl" ; Times: 3
+	Query: "specificepithet:flammeus genus:asio locality:okmulgee" ; Times: 1
+	Query: "Aulacorhynchus (skel OR skeleton)" ; Times: 1
+	Query: "red-winged blackbird" ; Times: 2
+	Query: "country:&#34;United states&#34; (tufted titmouse) tissue:1" ; Times: 1
+	Query: "cardinal* country:&#34;United states&#34; (northern cardinal AND cardinalis cardinalis) tissue:1" ; Times: 2
+	Query: "vultur" ; Times: 11
+	Query: "columba livia" ; Times: 1
+	Query: "lorius (skel OR skeleton)" ; Times: 1
+	Query: "Phoebastria irrorata" ; Times: 1
+	Query: "red-winged blackbird year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "class:aves recordedby:snodgrass" ; Times: 1
+	Query: "type:specimen (cardinalis cardinalis OR Northern Cardinal ) tissue:1" ; Times: 3
+	Query: "salpinctes obsoletus tissue:1" ; Times: 1
+	Query: "great blue heron" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "geococcyx (skel OR skeleton)" ; Times: 3
+	Query: "yellow-billed cuckoo" ; Times: 1
+	Query: "turdoides affinis" ; Times: 1
+	Query: "Peucaea aestivalis type:specimen" ; Times: 1
+	Query: "anas strepera" ; Times: 4
+	Query: "distance(location,geopoint(53.225768435790194,-170.914306640625))&lt;100000" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "northern cardinal AND/OR cardinalis cardinalis" ; Times: 1
+	Query: "columbina inca" ; Times: 2
+	Query: "specificepithet:asio genus:megascops tissue:1" ; Times: 2
+	Query: "rissa tridactyla" ; Times: 1
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "Pterocles orientalis India skin" ; Times: 3
+	Query: "rissa tridactyla institutioncode:OMNH (skin)" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "Ohio aves" ; Times: 1
+	Query: "country:&#34;United states&#34; (northern cardinal cardinalis) tissue:1" ; Times: 1
+	Query: "lagopus leucura" ; Times: 1
+	Query: "Herring Gull" ; Times: 2
+	Query: "northern cardinal" ; Times: 1
+	Query: "Thinocorus (skel OR skeleton)" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 2
+	Query: "Platalea (skel OR skeleton)" ; Times: 1
+	Query: "gallus gallus" ; Times: 1
+	Query: "omnh thailand" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "specificepithet:flammeus genus:asio county:&#34;okmulgee&#34;" ; Times: 1
+	Query: "burrowing owl" ; Times: 2
+	Query: "specificepithet:ornatus genus:calcarius year &gt;= 1965 year &lt;= 1965" ; Times: 1
+	Query: "coturnicops" ; Times: 2
+	Query: "or.2290" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "cardinal* (northern cardinal AND cardinalis cardinalis) tissue:1" ; Times: 1
+	Query: "Red-vented Bulbul" ; Times: 1
+	Query: "uria aalge type:specimen institutioncode:OMNH (skin)" ; Times: 1
+	Query: "black rail" ; Times: 4
+	Query: "distance(location,geopoint(54.36775852406841,-171.8701171875))&lt;100000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1045 download events in this period)
+Total number of records downloaded: 33594
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 21
+	Country: Thailand ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-19 ; Times: 4
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-29 ; Times: 2
+	Date: 2015-09-02 ; Times: 5
+	Date: 2015-09-01 ; Times: 4
+	Date: 2015-09-17 ; Times: 2
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-16 ; Times: 6
+	Date: 2015-09-22 ; Times: 5
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "omnh birds" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "peru" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "genus:megascops tissue:1" ; Times: 1
+	Query: "salpinctes obsoletus tissue:1" ; Times: 1
+	Query: "Psophia" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Gavia" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "Irian" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Spizella breweri" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+
+
+End of report.
