@@ -1,0 +1,170 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 1859
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 47
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 1
+	Country: United States ; Times: 52
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 8
+	Date: 2015-12-08 ; Times: 12
+	Date: 2015-12-03 ; Times: 5
+	Date: 2015-12-02 ; Times: 5
+	Date: 2015-12-01 ; Times: 5
+	Date: 2015-12-07 ; Times: 13
+	Date: 2015-12-06 ; Times: 10
+	Date: 2015-12-04 ; Times: 16
+	Date: 2015-12-21 ; Times: 3
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-22 ; Times: 4
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-27 ; Times: 2
+	Date: 2015-12-26 ; Times: 2
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-16 ; Times: 4
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-11 ; Times: 4
+	Date: 2015-12-12 ; Times: 4
+	Date: 2015-12-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Crypsirina temia" ; Times: 3
+	Query: "roadrunner" ; Times: 1
+	Query: "Chlidonias niger" ; Times: 1
+	Query: "Sterna forsteri" ; Times: 1
+	Query: "Long-billed Curlew" ; Times: 3
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "Calidris canutus" ; Times: 1
+	Query: "type:specimen genus:Agapornis order:Psittaciformes (personatus)" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 5
+	Query: "rufous-crowned sparrow" ; Times: 1
+	Query: "Icteria virens" ; Times: 1
+	Query: "gyps fulvus" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "red siskin" ; Times: 1
+	Query: "Contopus virens" ; Times: 1
+	Query: "Crossoptilon harmani preparations:skin" ; Times: 1
+	Query: "oxyruncus type:specimen" ; Times: 3
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Caprimulgus vociferus" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "type:specimen genus:Agapornis order:Psittaciformes continent:Africa (taranta)" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "carolina parakeet" ; Times: 6
+	Query: "black-chinned" ; Times: 1
+	Query: "cardinal" ; Times: 2
+	Query: "mounted type:specimen year &lt;= 1930" ; Times: 2
+	Query: "Astrapia stephaniae preparations:skin" ; Times: 1
+	Query: "riparia riparia" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 4
+	Query: "Phalaropus lobatus" ; Times: 2
+	Query: "Loon" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "francolinus francolinus" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 3
+	Query: "California Gull" ; Times: 2
+	Query: "pittsburg oklahoma" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "chickadee kansas" ; Times: 1
+	Query: "resplendent quetzal" ; Times: 1
+	Query: "Melanerpes erythrocephalus" ; Times: 1
+	Query: "Cardellina canadensis" ; Times: 4
+	Query: "Asio flammeus" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 3
+	Query: "symposiachrus" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Chordeiles minor" ; Times: 1
+	Query: "Contopus cooperi" ; Times: 1
+	Query: "cardellina pusilla" ; Times: 1
+	Query: "american pipit" ; Times: 1
+	Query: "SPHENISCUS HUMBOLDTI" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 3
+	Query: "Sturnella magna" ; Times: 2
+	Query: "Selasphorus platycercus type:specimen tissue:1" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "family:Trochilidae institutioncode:OMNH" ; Times: 1
+	Query: "greater roadrunner" ; Times: 3
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "Pluvianus" ; Times: 1
+	Query: "tanager" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 889 download events in this period)
+Total number of records downloaded: 921
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 18
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-08 ; Times: 7
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-04 ; Times: 4
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-31 ; Times: 4
+	Date: 2015-12-11 ; Times: 4
+	Date: 2015-12-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "tachuris" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "gyps fulvus" ; Times: 3
+	Query: "scarlet macaw" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Archilochus type:specimen mappable:1" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "class:Aves country:&#34;French Guiana&#34;" ; Times: 1
+	Query: "Selasphorus type:specimen mappable:1" ; Times: 2
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "larimer aves" ; Times: 1
+	Query: "grallaria rufula type:specimen" ; Times: 1
+	Query: "resplendent quetzal" ; Times: 1
+	Query: "european starling" ; Times: 2
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Poicephalus" ; Times: 1
+
+
+End of report.
