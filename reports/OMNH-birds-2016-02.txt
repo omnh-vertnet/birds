@@ -1,0 +1,159 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 728
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 45
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Iceland ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 5
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-12 ; Times: 7
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-11 ; Times: 4
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-15 ; Times: 3
+	Date: 2016-02-02 ; Times: 4
+	Date: 2016-02-09 ; Times: 4
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-20 ; Times: 2
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 3
+	Date: 2016-02-24 ; Times: 7
+	Date: 2016-02-01 ; Times: 2
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-07 ; Times: 4
+	Date: 2016-02-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "burrowing owl" ; Times: 1
+	Query: "Vireo vicinior" ; Times: 1
+	Query: "anhima" ; Times: 1
+	Query: "tympanuchus cupido cupido" ; Times: 2
+	Query: "Tympanuchus pallidicinctus 1" ; Times: 1
+	Query: "haliaeetus leucocephalus" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "black-legged kittiwake" ; Times: 1
+	Query: "cissa chinensis" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Vliet" ; Times: 1
+	Query: "Caprimulgus carolinensis" ; Times: 1
+	Query: "Murre" ; Times: 1
+	Query: "genus:Cerorhinca tissue:1" ; Times: 1
+	Query: "mummy" ; Times: 8
+	Query: "aviceda leuphotes" ; Times: 3
+	Query: "specificepithet:chrysaetos genus:aquila year &gt;= 1910 year &lt;= 1910" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 2
+	Query: "specificepithet:chrysaetos genus:aquila year &gt;= 1905 year &lt;= 1910" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "vliet" ; Times: 1
+	Query: "Spinus tristis" ; Times: 2
+	Query: "specificepithet:cayana genus:Cotinga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 6
+	Query: "mottled duck" ; Times: 1
+	Query: "metriopelia morenoi" ; Times: 3
+	Query: "Torgos" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "setophaga magnolia" ; Times: 1
+	Query: "gentilis oklahoma noble" ; Times: 1
+	Query: "aethia psittacula" ; Times: 1
+	Query: "gallinago institutioncode:OMNH" ; Times: 1
+	Query: "tom white" ; Times: 1
+	Query: "vireo atricapilla" ; Times: 1
+	Query: "oklahoma major county" ; Times: 1
+	Query: "anastomus oscitans" ; Times: 2
+	Query: "specificepithet:pictus genus:calcarius class:aves" ; Times: 1
+	Query: "sharpbill" ; Times: 1
+	Query: "Mottled duck" ; Times: 1
+	Query: "(oxyruncus)" ; Times: 1
+	Query: "red crossbill" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "snow goose" ; Times: 1
+	Query: "oklahoma major glass mountains" ; Times: 1
+	Query: "aves (costa rica) year &gt;= 1880 year &lt;= 2016 institutioncode:OMNH" ; Times: 1
+	Query: "yale" ; Times: 2
+	Query: "melanerpes carolinus x aurifrons" ; Times: 1
+	Query: "tanager" ; Times: 1
+	Query: "black rail" ; Times: 3
+	Query: "ara militaris" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 512 download events in this period)
+Total number of records downloaded: 908
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 2
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 2
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-29 ; Times: 2
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "Geospiza" ; Times: 1
+	Query: "Hendee" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1975 year &lt;= 1979" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "Poicephalus meyeri" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Yukon&#34; country:&#34;Canada&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1955 year &lt;= 1959" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1920 year &lt;= 1926 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1946 year &lt;= 1949" ; Times: 1
+
+
+End of report.
