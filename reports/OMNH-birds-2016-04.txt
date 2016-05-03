@@ -1,0 +1,252 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 164
+Number of records retrieved in searches: 963
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 12
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 24
+	Country: Montenegro ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 87
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 5
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 6
+	Date: 2016-04-05 ; Times: 8
+	Date: 2016-04-21 ; Times: 17
+	Date: 2016-04-20 ; Times: 17
+	Date: 2016-04-09 ; Times: 10
+	Date: 2016-04-08 ; Times: 11
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 13
+	Date: 2016-04-26 ; Times: 5
+	Date: 2016-04-22 ; Times: 5
+	Date: 2016-04-18 ; Times: 5
+	Date: 2016-04-19 ; Times: 4
+	Date: 2016-04-14 ; Times: 4
+	Date: 2016-04-15 ; Times: 4
+	Date: 2016-04-16 ; Times: 3
+	Date: 2016-04-17 ; Times: 6
+	Date: 2016-04-10 ; Times: 4
+	Date: 2016-04-11 ; Times: 5
+	Date: 2016-04-12 ; Times: 14
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-03 ; Times: 4
+	Date: 2016-04-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "de la torre" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "population data" ; Times: 1
+	Query: "Linton AND San Clemente Island" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "Black Tern" ; Times: 1
+	Query: "Riparia riparia" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-108.937516))&lt;15000" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1955 year &lt;= 1960 mappable:1" ; Times: 2
+	Query: "specificepithet:calendula genus:regulus stateprovince:&#34;oklahoma&#34; year &gt;= 1971 year &lt;= 1971" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "corvus corax" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.747516))&lt;15000" ; Times: 1
+	Query: "flicker" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 1
+	Query: "violacea" ; Times: 1
+	Query: "philortyx omnh" ; Times: 2
+	Query: "type:specimen specificepithet:castanea genus:Setophaga month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "coragyps" ; Times: 1
+	Query: "Pteroglossus inscriptus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "rIPARIA RIPARIA" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 2
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1975 mappable:1" ; Times: 2
+	Query: "piping plover" ; Times: 1
+	Query: "Xenicus longipes" ; Times: 1
+	Query: "rock sandpiper" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.317516))&lt;15000" ; Times: 1
+	Query: "recordedby:Mock" ; Times: 1
+	Query: "type:specimen specificepithet:nigrescens genus:Setophaga month &gt;= 1 month &lt;= 4" ; Times: 1
+	Query: "Petrochelidon pyrrhonota type:specimen institutioncode:OMNH" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Setophaga discolor" ; Times: 1
+	Query: "aburria aburri" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 4
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.107516))&lt;15000" ; Times: 1
+	Query: "mummy" ; Times: 19
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "specificepithet:calendula genus:regulus year &gt;= 1971 year &lt;= 1971" ; Times: 1
+	Query: "broad winged hawk" ; Times: 1
+	Query: "birds from Turkey" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "american white pelican" ; Times: 3
+	Query: "riparia riparia" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1985 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "genus:Junco stateprovince:&#34;oklahoma&#34; recordedby:graber" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "willow flycatcher" ; Times: 1
+	Query: "Parabuteo" ; Times: 1
+	Query: "black-headed siskin" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 2
+	Query: "pteroglossus inscriptus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "american bittern" ; Times: 1
+	Query: "pteroglossus aracari type:specimen" ; Times: 3
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:nigrescens genus:Setophaga" ; Times: 2
+	Query: "Egretta caerulea" ; Times: 1
+	Query: "M. Daily" ; Times: 1
+	Query: "whet owl" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "11221" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 4 mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-111.487516))&lt;15000" ; Times: 1
+	Query: "phoebastria" ; Times: 4
+	Query: "ontario" ; Times: 3
+	Query: "specificepithet:virens genus:Setophaga year &gt;= 1985 year &lt;= 2016 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.997516))&lt;15000" ; Times: 1
+	Query: "Setophaga striata" ; Times: 2
+	Query: "type:specimen specificepithet:striata genus:Setophaga" ; Times: 2
+	Query: "golden eagle" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "specificepithet:rubecula genus:Scelorchilus country:&#34;chile&#34; recordedby:greer" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1965 mappable:1" ; Times: 2
+	Query: "Lawton" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "pelecanus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 12 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "Accipiter striatus 1" ; Times: 2
+	Query: "Nandayus" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "golden crowned kinglet" ; Times: 1
+	Query: "Monkey" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.937516))&lt;15000" ; Times: 1
+	Query: "specificepithet:discolor genus:Setophaga mappable:1" ; Times: 2
+	Query: "Vliet" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.577516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.997516))&lt;15000" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "genus:Junco recordedby:graber" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1965 year &lt;= 1970 mappable:1" ; Times: 2
+	Query: "ONTARIO" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1955 mappable:1" ; Times: 2
+	Query: "Linton AND Island" ; Times: 1
+	Query: "10371" ; Times: 1
+	Query: "gallinula chloropus skeleton egypt" ; Times: 1
+	Query: "specificepithet:discolor genus:Setophaga (immature) mappable:1" ; Times: 1
+	Query: "gallinula chloropus skeleton" ; Times: 1
+	Query: "egretta caerulea" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-107.577516))&lt;15000" ; Times: 1
+	Query: "11650" ; Times: 3
+	Query: "tanager" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1312 download events in this period)
+Total number of records downloaded: 727
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 55
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-20 ; Times: 17
+	Date: 2016-04-21 ; Times: 17
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-23 ; Times: 1
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 4 mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1910 year &lt;= 1920 mappable:1" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 1
+	Query: "Petrochelidon pyrrhonota type:specimen institutioncode:OMNH" ; Times: 1
+	Query: "type:specimen specificepithet:thalassina genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1975 mappable:1" ; Times: 2
+	Query: "phoebastria" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1965 year &lt;= 1970 mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1985 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "Crax rubra" ; Times: 2
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "toucan" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1955 year &lt;= 1960 mappable:1" ; Times: 2
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1920 year &lt;= 1930 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 12 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1965 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
