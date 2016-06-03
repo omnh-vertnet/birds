@@ -1,0 +1,109 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 555
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 1
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-11 ; Times: 3
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-26 ; Times: 4
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 3
+	Date: 2016-05-31 ; Times: 10
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-13 ; Times: 4
+	Date: 2016-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Parabuteo unicinctus" ; Times: 2
+	Query: "omnh 14894" ; Times: 1
+	Query: "american crow" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "Callipepla squamata" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 2
+	Query: "county:&#34;harmon&#34; stateprovince:&#34;oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Plegadis falcinellus tissue:1" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "meadowlark" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "Halcyon albiventris Kenya" ; Times: 1
+	Query: "setophaga nigrescens" ; Times: 1
+	Query: "francolinus pintadeanus" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx tissue:1" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "Eremophila alpestris AND San Clemente Island" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "yale peabody museum" ; Times: 1
+	Query: "francolinus pintadeanus year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "saw whet owl" ; Times: 1
+	Query: "stigmatura napensis" ; Times: 1
+	Query: "wrentit" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 1
+	Query: "black rail" ; Times: 1
+	Query: "Ardea AND Island" ; Times: 1
+	Query: "Red Knot" ; Times: 1
+	Query: "white breasted waterhen" ; Times: 1
+	Query: "Passer domesticus" ; Times: 2
+	Query: "anhima cornuta" ; Times: 4
+	Query: "Sturnus vulgaris" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 327 download events in this period)
+Total number of records downloaded: 19
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: China ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "calypte anna" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+
+
+End of report.
