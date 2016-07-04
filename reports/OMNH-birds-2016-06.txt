@@ -1,0 +1,229 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 161
+Number of records retrieved in searches: 1496
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 24
+	Country: Denmark ; Times: 1
+	Country: Singapore ; Times: 8
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 103
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 11
+	Date: 2016-06-09 ; Times: 5
+	Date: 2016-06-08 ; Times: 13
+	Date: 2016-06-21 ; Times: 4
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-04 ; Times: 13
+	Date: 2016-06-07 ; Times: 14
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-03 ; Times: 9
+	Date: 2016-06-02 ; Times: 8
+	Date: 2016-06-23 ; Times: 7
+	Date: 2016-06-22 ; Times: 4
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-16 ; Times: 10
+	Date: 2016-06-17 ; Times: 11
+	Date: 2016-06-14 ; Times: 14
+	Date: 2016-06-15 ; Times: 5
+	Date: 2016-06-13 ; Times: 8
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "Buphagidae" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "yellow warbler" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus country:&#34;United States&#34;" ; Times: 1
+	Query: "mallard" ; Times: 2
+	Query: "imperial woodpecker" ; Times: 1
+	Query: "Picus erythropygius Thailand" ; Times: 1
+	Query: "Muscicapa thailand" ; Times: 1
+	Query: "oxpecker" ; Times: 6
+	Query: "clappertoni" ; Times: 1
+	Query: "specificepithet:chrysogenys genus:Melanerpes year &gt;= 1970 year &lt;= 1990" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1908" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "phalaropus tricolor tissue:1" ; Times: 1
+	Query: "Picus chlorolophus Thailand" ; Times: 1
+	Query: "magnolia warbler" ; Times: 2
+	Query: "county:&#34;murray&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Toxostoma redivivum" ; Times: 1
+	Query: "red bellied woodpecker" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Aves institutioncode:OMNH" ; Times: 1
+	Query: "Icterus class:Aves institutioncode:OMNH tissue:1" ; Times: 2
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "Yellow warbler" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Numenius americanus tissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:OMNH tissue:1" ; Times: 1
+	Query: "Numenius tissue:1" ; Times: 1
+	Query: "vesper sparrow" ; Times: 1
+	Query: "sturgeon" ; Times: 1
+	Query: "4689" ; Times: 1
+	Query: "mallard wing spread" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "Toxostoma rufum" ; Times: 1
+	Query: "numenius tissue:1" ; Times: 6
+	Query: "Oreoscoptes montanus" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 5
+	Query: "mummy" ; Times: 5
+	Query: "francolinus francolinus" ; Times: 4
+	Query: "columba livia" ; Times: 2
+	Query: "8516" ; Times: 1
+	Query: "11899" ; Times: 3
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Gavia immer AND California" ; Times: 1
+	Query: "anhinga" ; Times: 1
+	Query: "Asio stygius" ; Times: 2
+	Query: "Mimus dorsalis" ; Times: 1
+	Query: "canada goose" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 2
+	Query: "Dumetella carolinensis" ; Times: 1
+	Query: "tishomingo refuge stateprovince:&#34;oklahoma&#34; AND (aves)" ; Times: 1
+	Query: "Law AND San Clemente Island" ; Times: 1
+	Query: "francolinus erckelii" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "tishomingo refuge stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "laterallus jamaicensis United States" ; Times: 1
+	Query: "7017" ; Times: 1
+	Query: "Francolinus pintadeanus" ; Times: 2
+	Query: "vultur gryphus" ; Times: 3
+	Query: "setophaga magnolia month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "ammodramus bairdii" ; Times: 1
+	Query: "recordedby:Labedz" ; Times: 1
+	Query: "county:&#34;Garfield&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "county:&#34;muskogee&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "Callipepla douglasii" ; Times: 1
+	Query: "oak titmouse" ; Times: 1
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "4774" ; Times: 1
+	Query: "Greater Yellowlegs" ; Times: 2
+	Query: "haliaeetus" ; Times: 1
+	Query: "francolinus adspersus" ; Times: 2
+	Query: "county:&#34;logan&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 3
+	Query: "american redstart" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "francolinus clappertoni" ; Times: 1
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 2
+	Query: "philadelphia vireo" ; Times: 2
+	Query: "Law AND ISland NOT Alaska" ; Times: 1
+	Query: "7173" ; Times: 1
+	Query: "woodpecker" ; Times: 1
+	Query: "Columba livia" ; Times: 3
+	Query: "Law AND ISland" ; Times: 1
+	Query: "anhima cornuta" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "couch" ; Times: 2
+	Query: "7777" ; Times: 1
+	Query: "colinus type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:chrysogenys genus:Melanerpes year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "parabuteo unicinctus" ; Times: 2
+	Query: "Mimus triurus" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "Aves institutioncode:OMNH tissue:1" ; Times: 1
+	Query: "Toxostoma curvirostre" ; Times: 1
+	Query: "9197" ; Times: 1
+	Query: "8555" ; Times: 1
+	Query: "Lagopus leucura type:specimen specificepithet:leucura genus:Lagopus" ; Times: 2
+	Query: "Louisiana Waterthrush type:specimen" ; Times: 1
+	Query: "Childs AND Island" ; Times: 1
+	Query: "2083" ; Times: 1
+	Query: "anas cyanoptera" ; Times: 1
+	Query: "specificepithet:chrysogenys genus:Melanerpes year &gt;= 1970 year &lt;= 2000" ; Times: 1
+	Query: "11714" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1052 download events in this period)
+Total number of records downloaded: 9071
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 25
+	Country: Denmark ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 7
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-14 ; Times: 5
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves institutioncode:OMNH tissue:1" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "melanerpes carolinus tissue:1" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "goura" ; Times: 2
+	Query: "birds" ; Times: 1
+	Query: "numenius tissue:1" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "magnolia warbler" ; Times: 1
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Icterus class:Aves institutioncode:OMNH tissue:1" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+
+End of report.
