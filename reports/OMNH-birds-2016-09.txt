@@ -1,0 +1,216 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 908
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 62
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Poland ; Times: 1
+	Country: United States ; Times: 44
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 19
+	Country: Argentina ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 8
+	Date: 2016-09-12 ; Times: 6
+	Date: 2016-09-11 ; Times: 4
+	Date: 2016-09-10 ; Times: 14
+	Date: 2016-09-08 ; Times: 36
+	Date: 2016-09-09 ; Times: 28
+	Date: 2016-09-14 ; Times: 28
+	Date: 2016-09-04 ; Times: 2
+	Date: 2016-09-05 ; Times: 7
+	Date: 2016-09-06 ; Times: 8
+	Date: 2016-09-07 ; Times: 10
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-02 ; Times: 11
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mississippi kite" ; Times: 1
+	Query: "Aratinga holochlora 1" ; Times: 1
+	Query: "Dolichonyx oryzivorus 1" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 1
+	Query: "Bubo virginianus 1" ; Times: 2
+	Query: "Gubernatrix cristata" ; Times: 29
+	Query: "corvus corax" ; Times: 1
+	Query: "Zonotrichia albicollis year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Archilochus colubris 1" ; Times: 3
+	Query: "Cinclodes fuscus 1" ; Times: 1
+	Query: "Amazilia beryllina 1" ; Times: 1
+	Query: "Agelaioides badius 1" ; Times: 1
+	Query: "Coturnix delegorguei 1" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Anas americana 1" ; Times: 3
+	Query: "13921" ; Times: 1
+	Query: "Forpus coelestis 1" ; Times: 1
+	Query: "Guira guira 1" ; Times: 1
+	Query: "yale" ; Times: 1
+	Query: "Zonotrichia albicollis 1" ; Times: 1
+	Query: "9759 class:Aves" ; Times: 1
+	Query: "Asthenes modesta 1" ; Times: 1
+	Query: "Eugenes fulgens 1" ; Times: 1
+	Query: "birds malabar" ; Times: 2
+	Query: "Anas platyrhynchos 1" ; Times: 1
+	Query: "Bubo bubo 1" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 2
+	Query: "alopochelidon fucata" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 2
+	Query: "Platalea ajaja 1" ; Times: 1
+	Query: "Amazilia amazilia 1" ; Times: 1
+	Query: "Himantopus mexicanus 1" ; Times: 1
+	Query: "chipping sparrow" ; Times: 3
+	Query: "Vireo solitarius year &gt;= 1980" ; Times: 1
+	Query: "Coscoroba coscoroba" ; Times: 1
+	Query: "Alectoris chukar 1" ; Times: 2
+	Query: "Regulus calendula year &gt;= 1980" ; Times: 1
+	Query: "Todus todus" ; Times: 1
+	Query: "Aquila chrysaetos 1" ; Times: 1
+	Query: "Aptenodytes patagonicus 1" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Geothlypis trichas Missouri type:specimen" ; Times: 1
+	Query: "poospiza ornata type:specimen" ; Times: 1
+	Query: "type:specimen (horned lark) year &gt;= 1931 year &lt;= 2016" ; Times: 1
+	Query: "Asthenes dorbignyi 1" ; Times: 1
+	Query: "falco columbarius continent:america AND (United states)" ; Times: 1
+	Query: "agelaioides" ; Times: 1
+	Query: "Peucaea aestivalis" ; Times: 1
+	Query: "Oreothlypis ruficapilla year &gt;= 1980" ; Times: 2
+	Query: "Upucerthia dumetaria 1" ; Times: 1
+	Query: "Todiramphus chloris 1" ; Times: 1
+	Query: "Oreothlypis peregrina year &gt;= 1980" ; Times: 1
+	Query: "roadrunner" ; Times: 1
+	Query: "Melopsittacus undulatus 1" ; Times: 2
+	Query: "Amazona ochrocephala 1" ; Times: 2
+	Query: "Falco sparverius 1" ; Times: 2
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Stelgidopteryx ruficollis mappable:1" ; Times: 1
+	Query: "Selasphorus platycercus 1" ; Times: 1
+	Query: "Lophodytes cucullatus 1" ; Times: 2
+	Query: "golden eagle" ; Times: 1
+	Query: "Carpodacus mexicanus 1" ; Times: 1
+	Query: "asian pied starling" ; Times: 1
+	Query: "vireo atricapilla" ; Times: 2
+	Query: "gallus" ; Times: 1
+	Query: "type:specimen preparations:skin (hairy woodpecker) year &gt;= 1931 year &lt;= 2016" ; Times: 1
+	Query: "Calocitta formosa 1" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 2
+	Query: "podiceps auritus" ; Times: 1
+	Query: "Pavo cristatus 1" ; Times: 1
+	Query: "Oreothlypis celata year &gt;= 1980" ; Times: 1
+	Query: "Branta canadensis 1" ; Times: 1
+	Query: "Stelgidopteryx ruficollis" ; Times: 1
+	Query: "Certhia americana year &gt;= 1980" ; Times: 1
+	Query: "21963" ; Times: 1
+	Query: "Columba livia 1" ; Times: 1
+	Query: "5291" ; Times: 1
+	Query: "Buteo jamaicensis 1" ; Times: 3
+	Query: "specificepithet:philadelphia genus:Geothlypis year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Chen rossii 1" ; Times: 1
+	Query: "Bubo scandiacus 1" ; Times: 1
+	Query: "Anas discors 1" ; Times: 2
+	Query: "Hylocharis leucotis 1" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 3
+	Query: "Leptoptilos crumeniferus 1" ; Times: 1
+	Query: "cistothorus platensis type:specimen" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Cathartes aura 1" ; Times: 1
+	Query: "Gyps africanus 1" ; Times: 1
+	Query: "year &gt;= 1838 year &lt;= 1845" ; Times: 1
+	Query: "Stelgidopteryx ruficollis continent:America mappable:1" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 3
+	Query: "Sturnella magna 1" ; Times: 1
+	Query: "type:specimen preparations:skin (northern mockingbird) year &gt;= 1931 year &lt;= 2016" ; Times: 1
+	Query: "Colibri thalassinus 1" ; Times: 1
+	Query: "Lampornis amethystinus 1" ; Times: 1
+	Query: "Bucephala clangula 1" ; Times: 1
+	Query: "Vireo philadelphicus year &gt;= 1980" ; Times: 1
+	Query: "melanopareia maximiliani" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 2
+	Query: "Accipiter cooperii 1" ; Times: 2
+	Query: "Eudocimus albus 1" ; Times: 1
+	Query: "Parabuteo unicinctus 1" ; Times: 1
+	Query: "Cardinalis cardinalis 1" ; Times: 2
+	Query: "Grus canadensis 1" ; Times: 2
+	Query: "9795 class:Aves" ; Times: 1
+	Query: "Setophaga pensylvanica year &gt;= 1980" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 811 download events in this period)
+Total number of records downloaded: 742
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 29
+	Country: Colombia ; Times: 5
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 4
+	Date: 2016-09-11 ; Times: 4
+	Date: 2016-09-08 ; Times: 7
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-05 ; Times: 5
+	Date: 2016-09-06 ; Times: 4
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-01 ; Times: 4
+	Date: 2016-09-02 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "roadrunner" ; Times: 1
+	Query: "Setophaga magnolia year &gt;= 1980" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "Merops leschenaulti" ; Times: 1
+	Query: "specificepithet:philadelphia genus:Geothlypis year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "aves and cameroon type:specimen" ; Times: 1
+	Query: "Sula leucogaster type:specimen country:&#34;Mexico&#34;" ; Times: 2
+	Query: "amazilia edward" ; Times: 1
+	Query: "pygochelidon cyanoleuca" ; Times: 1
+	Query: "type:specimen (Empidonax OR Willow flycatcher OR Alder flycatcher) tissue:1" ; Times: 1
+	Query: "specificepithet:lincolnii genus:Melospiza year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "alopochelidon fucata" ; Times: 2
+	Query: "Sitta canadensis year &gt;= 1980" ; Times: 1
+	Query: "Zonotrichia albicollis year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "geococcyx californianus" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "Vireo olivaceus year &gt;= 1980" ; Times: 1
+	Query: "Vireo solitarius year &gt;= 1980" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "myioborus miniatus type:specimen" ; Times: 2
+	Query: "aves and Guinea type:specimen" ; Times: 1
+	Query: "genus:Setophaga (castanea OR coronata OR fusca OR palmarum OR ruticilla OR striata OR tigrina OR virens) year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "vireo atricapilla" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "Troglodytes troglodytes year &gt;= 1980" ; Times: 1
+	Query: "poospiza ornata type:specimen" ; Times: 1
+	Query: "Vireo philadelphicus year &gt;= 1980" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "Regulus calendula year &gt;= 1980 tissue:1" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "progne tapera continent:america" ; Times: 1
+	Query: "Oreothlypis celata year &gt;= 1980" ; Times: 1
+	Query: "Peucaea aestivalis" ; Times: 1
+	Query: "Certhia americana year &gt;= 1980" ; Times: 1
+	Query: "cistothorus platensis type:specimen" ; Times: 1
+	Query: "Empidonax type:specimen (alnorum OR difficilis OR traillii) tissue:1" ; Times: 1
+
+
+End of report.
