@@ -1,0 +1,222 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 1204
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 14
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 18
+	Country: Indonesia ; Times: 7
+	Country: United States ; Times: 74
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 40
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 7
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 41
+	Date: 2018-04-27 ; Times: 6
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-25 ; Times: 16
+	Date: 2018-04-24 ; Times: 5
+	Date: 2018-04-01 ; Times: 8
+	Date: 2018-04-03 ; Times: 6
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-07 ; Times: 7
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-08 ; Times: 5
+	Date: 2018-04-12 ; Times: 8
+	Date: 2018-04-13 ; Times: 6
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-11 ; Times: 12
+	Date: 2018-04-30 ; Times: 5
+	Date: 2018-04-17 ; Times: 9
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Parabuteo unicinctus" ; Times: 1
+	Query: "Neochen jubata" ; Times: 1
+	Query: "recordedby:voelker" ; Times: 1
+	Query: "indigo" ; Times: 1
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 6
+	Query: "Chloephaga melanoptera basisofrecord:PreservedSpecimen hastissue:0" ; Times: 1
+	Query: "indigo bunting" ; Times: 3
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis enddayofyear &lt;= 1950" ; Times: 1
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "bobcat" ; Times: 2
+	Query: "specificepithet:Guttatus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "16232" ; Times: 1
+	Query: "red-tailed hawk" ; Times: 1
+	Query: "white-faced ibis" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Ohio birds" ; Times: 1
+	Query: "class:aves locality:kodiak stateprovince:&#34;alaska&#34; year &gt;= 1920 year &lt;= 1922" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Aechmophorus hastissue:1" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes country:&#34;mexico&#34;" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "AMPELICEPS CORONATUS" ; Times: 7
+	Query: "turkey vulture" ; Times: 1
+	Query: "scarlet tanager" ; Times: 3
+	Query: "specificepithet:pyrrhonota class:aves stateprovince:&#34;alaska&#34; year &gt;= 1962 year &lt;= 1962" ; Times: 1
+	Query: "distance(location,geopoint(33.37859,-97.78226))&lt;50000" ; Times: 1
+	Query: "Carolina Parakeet" ; Times: 1
+	Query: "Alder Flycatcher" ; Times: 3
+	Query: "vntype:specimen specificepithet:virginianus genus:colinus AND (skeleton) year &gt;= 1976 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufipennis genus:Geositta" ; Times: 1
+	Query: "picoides arizonae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Northern rough winged swallow" ; Times: 1
+	Query: "prairie chicken" ; Times: 3
+	Query: "willow ptarmigan" ; Times: 1
+	Query: "lesser nighthawk" ; Times: 3
+	Query: "porphyrio hastissue:1" ; Times: 2
+	Query: "coragyps atratus" ; Times: 1
+	Query: "distance(location,geopoint(35.41059,-99.05879))&lt;50000" ; Times: 1
+	Query: "Coragyps" ; Times: 1
+	Query: "Cyanocorax cyanomelas" ; Times: 2
+	Query: "Turkey Vulture" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 5
+	Query: "ptarmigan" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "bobcat mappable:1" ; Times: 3
+	Query: "genus:Haliaeetus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1921 year &lt;= 1921" ; Times: 1
+	Query: "Gadwall Wing" ; Times: 3
+	Query: "10019" ; Times: 1
+	Query: "specificepithet:analis genus:Catamenia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis" ; Times: 1
+	Query: "vultur gryphus" ; Times: 36
+	Query: "extent genus:Synallaxis" ; Times: 1
+	Query: "Nothoprocta pentlandii" ; Times: 9
+	Query: "Ruby-throated hummingbird" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "blue heron" ; Times: 1
+	Query: "genus:Catamenia country:&#34;Argentina&#34;" ; Times: 3
+	Query: "red tail hawk" ; Times: 1
+	Query: "genus:junco class:aves stateprovince:&#34;alaska&#34; year &gt;= 1962 year &lt;= 1962" ; Times: 1
+	Query: "19122" ; Times: 1
+	Query: "class:aves locality:kodiak stateprovince:&#34;alaska&#34; year &gt;= 1915 year &lt;= 1925" ; Times: 1
+	Query: "bald eagle" ; Times: 2
+	Query: "Setophaga cerulea" ; Times: 1
+	Query: "Northern Mockingbird" ; Times: 2
+	Query: "Yellow-bellied Flycatcher" ; Times: 1
+	Query: "Anas discors basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Aythya collaris" ; Times: 1
+	Query: "tree swallow" ; Times: 2
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "warbling vireo" ; Times: 3
+	Query: "White-faced ibis" ; Times: 2
+	Query: "specificepithet:femoralis genus:falco country:&#34;mexico&#34;" ; Times: 1
+	Query: "extent genus:Paroaria" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1359 download events in this period)
+Total number of records downloaded: 745
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 34
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 6
+	Date: 2018-04-24 ; Times: 2
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-05 ; Times: 7
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 4
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-17 ; Times: 5
+	Date: 2018-04-15 ; Times: 10
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Neochen jubata" ; Times: 1
+	Query: "Hydropsalis climacocerca" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "fluid vntype:specimen family:trochilidae" ; Times: 1
+	Query: "specificepithet:gramineus genus:Pooecetes hastissue:1" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "distance(location,geopoint(18.11352,-66.98676))&lt;50000" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Nothoprocta pentlandii" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles mappable:1" ; Times: 1
+	Query: "Yellow-bellied Flycatcher" ; Times: 1
+	Query: "distance(location,geopoint(18.02125,-67.0769))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(33.37859,-97.78226))&lt;50000" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes country:&#34;mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "vntype:specimen specificepithet:yucatanensis genus:Amazilia country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Northern rough winged swallow" ; Times: 4
+	Query: "Alder Flycatcher" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "Zonotrichia leucophrys gambelii" ; Times: 1
+	Query: "vntype:specimen family:corvidae (&#34;Whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "distance(location,geopoint(35.41059,-99.05879))&lt;50000" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "vntype:specimen order:caprimulgiformes (&#34;whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "distance(location,geopoint(29.67647,-82.00909))&lt;50000" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "distance(location,geopoint(33.40123,-97.57))&lt;50000" ; Times: 1
+	Query: "thlypopsis sordida" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Geositta" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "vntype:specimen family:trochilidae (&#34;Whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "vntype:specimen order:apodiformes (&#34;whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "fluid vntype:specimen order:passeriformes" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 5
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+
+
+End of report.
