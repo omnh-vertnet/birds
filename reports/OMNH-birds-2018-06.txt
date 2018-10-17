@@ -1,0 +1,204 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 1080
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 95
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 12
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 14
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-05 ; Times: 11
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-03 ; Times: 3
+	Date: 2018-06-02 ; Times: 3
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-24 ; Times: 2
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 6
+	Date: 2018-06-21 ; Times: 7
+	Date: 2018-06-20 ; Times: 4
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-08 ; Times: 21
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 5
+	Date: 2018-06-12 ; Times: 7
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-19 ; Times: 5
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sam Noble Museum University of Oklahoma Fish" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "western meadowlark" ; Times: 3
+	Query: "snowy owl" ; Times: 2
+	Query: "cercotrichas barbata" ; Times: 2
+	Query: "haliaeetus leucocephalus" ; Times: 1
+	Query: "kori bustard" ; Times: 1
+	Query: "northern hawk owl" ; Times: 2
+	Query: "Screech owl hastissue:1" ; Times: 2
+	Query: "Cougar" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "bobcat" ; Times: 6
+	Query: "16088 vntype:specimen collectioncode:birds" ; Times: 1
+	Query: "Northern Goshawk" ; Times: 2
+	Query: "Barn Swallow vntype:specimen" ; Times: 2
+	Query: "wood duck" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Sam Noble Museum University of Oklahoma" ; Times: 1
+	Query: "specificepithet:semirufa genus:thamnolaea" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Sharp-tailed grouse wing" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 2
+	Query: "scarlet tanager" ; Times: 1
+	Query: "bald eagle" ; Times: 12
+	Query: "11605" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "white-eyed vireo" ; Times: 5
+	Query: "black capped chickadee" ; Times: 1
+	Query: "hosner" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1965" ; Times: 1
+	Query: "richard f johnston" ; Times: 3
+	Query: "great horned owl" ; Times: 1
+	Query: "ring necked pheasant" ; Times: 1
+	Query: "White-eyed Vireo" ; Times: 3
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1963" ; Times: 1
+	Query: "vntype:specimen specificepithet:harpyja genus:Harpia" ; Times: 1
+	Query: "Bald eagle" ; Times: 2
+	Query: "Barn Swallow vntype:specimen continent:North America; South America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "OMNH 23496" ; Times: 2
+	Query: "melancoryphus" ; Times: 1
+	Query: "cerulean" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "specificepithet:harpyja genus:Harpia preparations:skin" ; Times: 1
+	Query: "lagopus leucura" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 3
+	Query: "Atlapetes fulviceps" ; Times: 2
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "Atlapetes citrinellus" ; Times: 2
+	Query: "specificepithet:erythrophthalmus genus:pipilo month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "thamnolaea semirufa" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "red partridge" ; Times: 3
+	Query: "blue jay" ; Times: 3
+	Query: "laterallus" ; Times: 1
+	Query: "specificepithet:virens genus:Setophaga year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "vntype:specimen specificepithet:harpyja genus:Harpia year &gt;= 1980" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 3
+	Query: "hairy woodpecker" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "western kingbird" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus preparations:skeleton" ; Times: 1
+	Query: "peregrine falcon" ; Times: 1
+	Query: "puffin" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "specificepithet:discors genus:Anas year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "beavers" ; Times: 2
+	Query: "Bobcat" ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1962" ; Times: 1
+	Query: "specificepithet:mexicanus genus:himantopus hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1169 download events in this period)
+Total number of records downloaded: 1263
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 39
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 9
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-29 ; Times: 3
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-16 ; Times: 4
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-15 ; Times: 4
+	Date: 2018-06-08 ; Times: 11
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gray wolf" ; Times: 2
+	Query: "snowy owl" ; Times: 2
+	Query: "caprimulgus longirostris" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sage grouse" ; Times: 2
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(35.784892341187586,-116.70189927220218))&lt;177353" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "bald eagle" ; Times: 5
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "Spizaetus" ; Times: 2
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+
+
+End of report.
