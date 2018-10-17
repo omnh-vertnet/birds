@@ -1,0 +1,165 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 1074
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 59
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 4
+	Country: China ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 8
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-27 ; Times: 4
+	Date: 2018-09-06 ; Times: 5
+	Date: 2018-09-21 ; Times: 4
+	Date: 2018-09-04 ; Times: 8
+	Date: 2018-09-05 ; Times: 6
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-28 ; Times: 4
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-10 ; Times: 6
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 5
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-17 ; Times: 6
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-20 ; Times: 18
+	Date: 2018-09-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Caracara cheriway preparations:skeleton" ; Times: 1
+	Query: "burrowing owl" ; Times: 1
+	Query: "Greater Prairie-Chicken" ; Times: 2
+	Query: "harris hawk" ; Times: 1
+	Query: "psittacula" ; Times: 1
+	Query: "skeleton vntype:specimen (male female )" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "Couch" ; Times: 1
+	Query: "class:Aves institutioncode:OMNH" ; Times: 5
+	Query: "class:Aves recordedby:Holland" ; Times: 2
+	Query: "Red-breasted Nuthatch" ; Times: 1
+	Query: "tree swallow" ; Times: 2
+	Query: "monk parakeet" ; Times: 1
+	Query: "hooded oriole" ; Times: 2
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 1
+	Query: "bubulcus ibis" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "longspur" ; Times: 1
+	Query: "common tern" ; Times: 1
+	Query: "PILEATED woodpecker" ; Times: 1
+	Query: "quail wing" ; Times: 2
+	Query: "Pavo cristatus" ; Times: 14
+	Query: "corvus corax" ; Times: 2
+	Query: "anodorhynchus hyacinthinus skeleton" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "Painted Bunting" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "snow bunting" ; Times: 2
+	Query: "diomedeidae skeleton" ; Times: 2
+	Query: "vntype:specimen specificepithet:carolinensis genus:Poecile hastissue:1" ; Times: 1
+	Query: "specificepithet:rutila genus:Amazilia" ; Times: 1
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "greater sage-grouse" ; Times: 2
+	Query: "DOWNY WOODPECKER" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "calcarius pictus" ; Times: 1
+	Query: "specificepithet:ornata genus:poospiza" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "Onychoprion fuscatus" ; Times: 1
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+	Query: "specificepithet:torquata genus:poospiza" ; Times: 1
+	Query: "cougar" ; Times: 1
+	Query: "prairie dog" ; Times: 2
+	Query: "yellow-bellied flycatcher" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "white-winged scoter" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "wood stork" ; Times: 1
+	Query: "genus:torgos" ; Times: 1
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "specificepithet:fusca genus:setophaga" ; Times: 2
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "skeleton vntype:specimen (male female)" ; Times: 1
+	Query: "fox sparrow" ; Times: 1
+	Query: "STERNULA ANTILLARUM" ; Times: 1
+	Query: "Screech owl" ; Times: 1
+	Query: "oklahoma state university" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 846 download events in this period)
+Total number of records downloaded: 1465
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-21 ; Times: 3
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Caracara cheriway preparations:skeleton" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "STERNULA ANTILLARUM" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "Thryophilus sinaloa" ; Times: 1
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "RED BELLIED WOODPECKER" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 2
+
+
+End of report.
