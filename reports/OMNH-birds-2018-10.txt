@@ -1,0 +1,208 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 152
+Number of records retrieved in searches: 2157
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: Peru ; Times: 3
+	Country: United States ; Times: 123
+	Country: Colombia ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: South Korea ; Times: 2
+	Country: Norway ; Times: 5
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-04 ; Times: 6
+	Date: 2018-10-05 ; Times: 3
+	Date: 2018-10-06 ; Times: 1
+	Date: 2018-10-01 ; Times: 4
+	Date: 2018-10-02 ; Times: 3
+	Date: 2018-10-03 ; Times: 7
+	Date: 2018-10-30 ; Times: 5
+	Date: 2018-10-22 ; Times: 4
+	Date: 2018-10-23 ; Times: 6
+	Date: 2018-10-20 ; Times: 2
+	Date: 2018-10-21 ; Times: 8
+	Date: 2018-10-26 ; Times: 15
+	Date: 2018-10-27 ; Times: 5
+	Date: 2018-10-24 ; Times: 4
+	Date: 2018-10-25 ; Times: 9
+	Date: 2018-10-28 ; Times: 3
+	Date: 2018-10-29 ; Times: 19
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 6
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 15
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-10 ; Times: 12
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017" ; Times: 1
+	Query: "14342" ; Times: 1
+	Query: "american crow" ; Times: 2
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "brown-headed cowbird year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 4
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "baltimore oriole" ; Times: 3
+	Query: "titmouse" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; recordedby:&#34;Arnold&#34; year &gt;= 1975 year &lt;= 2017" ; Times: 1
+	Query: "B Arnold" ; Times: 4
+	Query: "ave mimidae" ; Times: 2
+	Query: "Snowy Owl" ; Times: 2
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34; year &gt;= 1971" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "genus:Icterus recordedby:&#34;Sutton&#34;" ; Times: 1
+	Query: "17713" ; Times: 1
+	Query: "brown-headed cowbird" ; Times: 2
+	Query: "calicut" ; Times: 1
+	Query: "snowy owl" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "class:Aves recordedby:Holland" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 1
+	Query: "Cygnus buccinator mappable:1" ; Times: 2
+	Query: "Trumpeter swan mappable:1" ; Times: 1
+	Query: "setophaga pinus" ; Times: 1
+	Query: "tennessee warbler" ; Times: 1
+	Query: "Marsh Wren" ; Times: 1
+	Query: "snow bunting" ; Times: 3
+	Query: "northern cardinal" ; Times: 3
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "sturnella magna hastissue:1" ; Times: 2
+	Query: "yellow rumped warbler" ; Times: 1
+	Query: "peregrine falcon" ; Times: 2
+	Query: "class:aves recordedby:Brewer" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+	Query: "Aix sponsa" ; Times: 1
+	Query: "harlequin duck" ; Times: 1
+	Query: "house finch" ; Times: 1
+	Query: "turkey vulture" ; Times: 1
+	Query: "ferruginous hawk" ; Times: 1
+	Query: "genus:Baeolophus class:Aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "least tern" ; Times: 3
+	Query: "Buteo regalis mappable:1" ; Times: 1
+	Query: "black-crested titmouse" ; Times: 1
+	Query: "bufflehead" ; Times: 2
+	Query: "specificepithet:poliogastrus genus:zosterops" ; Times: 1
+	Query: "Great egret" ; Times: 4
+	Query: "recordedby:bates" ; Times: 1
+	Query: "specificepithet:fulica genus:heliornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "oklahoma gentilis" ; Times: 4
+	Query: "bubo scandiacus" ; Times: 2
+	Query: "vultur" ; Times: 1
+	Query: "coragyps atratus" ; Times: 1
+	Query: "tufted titmouse" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "little blue heron" ; Times: 1
+	Query: "brown-headed cowbird year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "rufous hummingbird" ; Times: 1
+	Query: "harris hawk" ; Times: 2
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "country:&#34;United States&#34; recordedby:B Arnold year &gt;= 1976 year &lt;= 2017" ; Times: 2
+	Query: "greater prairie chicken" ; Times: 2
+	Query: "Barn Swallow vntype:specimen" ; Times: 7
+	Query: "aves lynn" ; Times: 1
+	Query: "genus:Icterus recordedby:&#34;G. M. Sutton&#34;" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 3
+	Query: "cardinal" ; Times: 2
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "ff" ; Times: 2
+	Query: "17776" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:B Arnold year &gt;= 1975 year &lt;= 2017" ; Times: 1
+	Query: "Thryophilus sinaloa" ; Times: 3
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "turkey vulture country:&#34;United States&#34;" ; Times: 1
+	Query: "Vireo nelsoni" ; Times: 1
+	Query: "genus:Pandion stateprovince:&#34;Oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "gyrfalcon" ; Times: 1
+	Query: "genus:Xanthocephalus stateprovince:&#34;Nebraska&#34;" ; Times: 12
+	Query: "king vulture" ; Times: 2
+	Query: "Loggerhead Shrike" ; Times: 1
+	Query: "class:Aves recordedby:Rossignol" ; Times: 1
+	Query: "Black Rail" ; Times: 1
+	Query: "genus:gyps preparations:skeleton" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1300 download events in this period)
+Total number of records downloaded: 1683
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Belgium ; Times: 3
+	Country: Norway ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 2
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-23 ; Times: 5
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-30 ; Times: 5
+	Date: 2018-10-12 ; Times: 2
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "family:apodidae hastissue:1" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Parabuteo country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:heliornis" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "geospiza fortis" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "Olive-backed Sunbird" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Thryophilus sinaloa" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Tephrodornis gularis" ; Times: 1
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "genus: Hirundo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cinnyris jugularis" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+
+
+End of report.
