@@ -1,0 +1,270 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 1568
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 17
+	Country: Netherlands ; Times: 5
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 6
+	Country: Peru ; Times: 82
+	Country: Belgium ; Times: 2
+	Country: United States ; Times: 64
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-08 ; Times: 10
+	Date: 2019-01-23 ; Times: 2
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-14 ; Times: 4
+	Date: 2019-01-15 ; Times: 9
+	Date: 2019-01-30 ; Times: 8
+	Date: 2019-01-17 ; Times: 7
+	Date: 2019-01-10 ; Times: 9
+	Date: 2019-01-11 ; Times: 19
+	Date: 2019-01-12 ; Times: 9
+	Date: 2019-01-13 ; Times: 17
+	Date: 2019-01-31 ; Times: 7
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-29 ; Times: 8
+	Date: 2019-01-28 ; Times: 6
+	Date: 2019-01-01 ; Times: 5
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-04 ; Times: 6
+	Date: 2019-01-21 ; Times: 3
+	Date: 2019-01-20 ; Times: 4
+	Date: 2019-01-09 ; Times: 31
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-24 ; Times: 5
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-26 ; Times: 2
+	Date: 2019-01-16 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "OMNH 487" ; Times: 2
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 2
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Calidris canutus" ; Times: 1
+	Query: "Chordeiles nacunda" ; Times: 1
+	Query: "16565" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "pectoral sandpiper" ; Times: 3
+	Query: "house finch" ; Times: 2
+	Query: "house wren" ; Times: 1
+	Query: "Nyctidromus albicollis" ; Times: 1
+	Query: "Cinclodes atacamensis" ; Times: 1
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "10812" ; Times: 1
+	Query: "Pionus menstruus" ; Times: 1
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Micrastur semitorquatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubra genus:cardellina" ; Times: 1
+	Query: "Selenidera reinwardtii" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:OMNH" ; Times: 2
+	Query: "16464" ; Times: 1
+	Query: "sharp-shinned hawk" ; Times: 1
+	Query: "dickcissel" ; Times: 2
+	Query: "16264" ; Times: 1
+	Query: "genus:Erythrura class:Aves hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; recordedby:King" ; Times: 1
+	Query: "red bellied woodpecker" ; Times: 5
+	Query: "21773" ; Times: 1
+	Query: "Ochetorhynchus ruficaudus" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Canada Jay" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Ardea alba" ; Times: 1
+	Query: "Grallaria rufula" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 1
+	Query: "Melanerpes candidus" ; Times: 1
+	Query: "tody" ; Times: 1
+	Query: "Deroptyus accipitrinus" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2010 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Crotophaga sulcirostris" ; Times: 1
+	Query: "Liosceles thoracicus" ; Times: 1
+	Query: "13917" ; Times: 1
+	Query: "omnh 398" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "Colaptes rupicola" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Amazilia chionogaster" ; Times: 1
+	Query: "Psarocolius angustifrons huanuco" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "snow bunting" ; Times: 3
+	Query: "Hydropsalis climacocerca" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "16408" ; Times: 1
+	Query: "3464" ; Times: 1
+	Query: "Lophostrix cristata" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "specificepithet:tolmiei genus:Geothlypis stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "brown-capped rosy-finch" ; Times: 2
+	Query: "Crotophaga ani" ; Times: 1
+	Query: "Psophia crepitans" ; Times: 1
+	Query: "eastern screech owl" ; Times: 1
+	Query: "Garibaldi" ; Times: 1
+	Query: "little egret" ; Times: 1
+	Query: "22239" ; Times: 1
+	Query: "22236" ; Times: 1
+	Query: "22237" ; Times: 1
+	Query: "22235" ; Times: 1
+	Query: "13877" ; Times: 1
+	Query: "Penelope jacquacu" ; Times: 1
+	Query: "Spizaetus melanoleucus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Colaptes rubiginosus" ; Times: 1
+	Query: "eastern screech owl hastissue:1" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "red siskin" ; Times: 2
+	Query: "Chloephaga melanoptera" ; Times: 1
+	Query: "Merganetta armata" ; Times: 1
+	Query: "Tigrisoma mexicanum" ; Times: 1
+	Query: "crossbill" ; Times: 1
+	Query: "Upucerthia dumetaria" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "Columbina picui" ; Times: 1
+	Query: "rose breasted grosbeak" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen specificepithet:viridigenalis genus:amazona" ; Times: 1
+	Query: "Chordeiles acutipennis" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "ladder-backed woodpecker" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "(house wren)" ; Times: 1
+	Query: "Metriopelia aymara" ; Times: 1
+	Query: "Nothoprocta pentlandii" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Geositta punensis" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "specificepithet:nuttallii genus:Phalaenoptilus hastissue:1" ; Times: 1
+	Query: "Pteroglossus castanotis" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "Phoenicopterus chilensis" ; Times: 1
+	Query: "stigmatura napensis" ; Times: 1
+	Query: "pine siskin" ; Times: 2
+	Query: "Lochmias nematura" ; Times: 1
+	Query: "Phleocryptes melanops" ; Times: 1
+	Query: "22121" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 2
+	Query: "Parabuteo unicinctus" ; Times: 1
+	Query: "Neochen jubata" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "13818" ; Times: 1
+	Query: "vntype:specimen specificepithet:asio genus:megascops stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "tympanuchus skeleton" ; Times: 3
+	Query: "purple martin" ; Times: 4
+	Query: "Dromococcyx phasianellus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "falco peregrinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:andaecola genus:Ochetorhynchus" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "reddish egret" ; Times: 2
+	Query: "Lophonetta specularioides" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Poecile hastissue:1" ; Times: 2
+	Query: "Campylorhamphus trochilirostris" ; Times: 1
+	Query: "Buteogallus meridionalis" ; Times: 1
+	Query: "red-cockaded woodpecker" ; Times: 1
+	Query: "Morphnus guianensis" ; Times: 1
+	Query: "Ara severus" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Forpus coelestis" ; Times: 1
+	Query: "brown-capped rosy finch" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2014 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Celeus flavus" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Ramphastos toco" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "12623" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Steatornis caripensis" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "golden-cheeked warbler" ; Times: 1
+	Query: "sage-grouse skeleton" ; Times: 1
+	Query: "Aburria aburri" ; Times: 1
+	Query: "genus:Geococcyx sex:female hastissue:1" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 962 download events in this period)
+Total number of records downloaded: 275
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 18
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-15 ; Times: 4
+	Date: 2019-01-09 ; Times: 5
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-11 ; Times: 4
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sphyrapicus varius sex:female hastissue:1" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Melanerpes uropygialis" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "melanerpes uropygialis" ; Times: 1
+	Query: "specificepithet:celaeno genus:Rhodothraupis" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 2
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "Thryophilus sinaloa" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Sturnella militaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "rosy finch" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 1
+	Query: "reddish egret" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "specificepithet:parellina genus:Cyanocompsa" ; Times: 1
+
+
+End of report.
