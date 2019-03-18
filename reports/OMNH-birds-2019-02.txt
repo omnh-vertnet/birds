@@ -1,0 +1,215 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 158
+Number of records retrieved in searches: 1536
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 22
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 1
+	Country: United States ; Times: 113
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 2
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-11 ; Times: 8
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-12 ; Times: 23
+	Date: 2019-02-15 ; Times: 10
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 6
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-01 ; Times: 17
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-04 ; Times: 31
+	Date: 2019-02-05 ; Times: 13
+	Date: 2019-02-08 ; Times: 17
+	Date: 2019-02-28 ; Times: 3
+	Date: 2019-02-03 ; Times: 4
+	Date: 2019-02-27 ; Times: 4
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "asio stygius" ; Times: 2
+	Query: "Setophaga chrysoparia" ; Times: 2
+	Query: "Callipepla douglasii douglasii mappable:1" ; Times: 1
+	Query: "Melozone fusca fusca mappable:1" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "specificepithet:platensis genus:leptasthenura" ; Times: 1
+	Query: "Spinus cucullatus" ; Times: 2
+	Query: "spinus cucullatus" ; Times: 2
+	Query: "specificepithet:unicinctus genus:parabuteo class:Aves" ; Times: 1
+	Query: "Procnias nudicollis" ; Times: 2
+	Query: "Gubernatrix cristata" ; Times: 2
+	Query: "Mountain bluebird" ; Times: 1
+	Query: "10817" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:ornata genus:poospiza" ; Times: 1
+	Query: "Phoebastria irrorata" ; Times: 2
+	Query: "Stigmatura napensis class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:parabuteo class:Aves" ; Times: 1
+	Query: "Corvus cryptoleucus cryptoleucus mappable:1" ; Times: 1
+	Query: "Okmulgee" ; Times: 1
+	Query: "Setophaga cerulea" ; Times: 2
+	Query: "Toxostoma crissale mappable:1" ; Times: 1
+	Query: "red bellied woodpecker" ; Times: 8
+	Query: "ASIO STYGIUS" ; Times: 1
+	Query: "7488 OMNH" ; Times: 1
+	Query: "western grebe" ; Times: 1
+	Query: "Nothura maculosa" ; Times: 2
+	Query: "swallow-tailed kite" ; Times: 1
+	Query: "Cardinalis sinuatus sinuatus mappable:1" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 2
+	Query: "sternula albifrons" ; Times: 1
+	Query: "Corvus cryptoleucus mappable:1" ; Times: 1
+	Query: "canada jay" ; Times: 1
+	Query: "12010" ; Times: 1
+	Query: "17499" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "18081" ; Times: 1
+	Query: "OMNH 3530" ; Times: 3
+	Query: "Crax rubra" ; Times: 3
+	Query: "vntype:specimen specificepithet:ornata genus:poospiza" ; Times: 1
+	Query: "Cardinalis sinuatus mappable:1" ; Times: 3
+	Query: "Coturnicops" ; Times: 1
+	Query: "Hellmayrea gularis" ; Times: 1
+	Query: "Buteo galapagoensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:ornata genus:poospiza (skeleton)" ; Times: 2
+	Query: "rynchops niger" ; Times: 4
+	Query: "Amphispiza bilineata bilineata mappable:1" ; Times: 3
+	Query: "Vireo bellii bellii mappable:1" ; Times: 3
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Callipepla squamata squamata mappable:1" ; Times: 2
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "Auriparus flaviceps mappable:1" ; Times: 2
+	Query: "Lesser Roadrunner" ; Times: 5
+	Query: "stateprovince:&#34;texas&#34; (crane)" ; Times: 2
+	Query: "specificepithet:nuttallii genus:phalaenoptilus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:sulphurea genus:cacatua (skeleton)" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:polyglottos genus:mimus" ; Times: 1
+	Query: "family:Haematopodidae institutioncode:OMNH" ; Times: 1
+	Query: "Vireo bellii mappable:1" ; Times: 3
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "montezuma quail" ; Times: 2
+	Query: "Alopochen" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "Snowy owl" ; Times: 2
+	Query: "common loon" ; Times: 2
+	Query: "gallinula galeata" ; Times: 1
+	Query: "sungrebe" ; Times: 1
+	Query: "Eastern screech owl hastissue:1" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Leptasthenura aegithaloides" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "virginia rail" ; Times: 1
+	Query: "harris hawk" ; Times: 1
+	Query: "Callipepla douglasii mappable:1" ; Times: 1
+	Query: "Barn Owl" ; Times: 2
+	Query: "purple martin" ; Times: 6
+	Query: "Cephalopterus penduliger" ; Times: 2
+	Query: "tree swallow" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:ornata genus:Poospiza" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "Toxostoma crissale crissale mappable:1" ; Times: 1
+	Query: "OMNH 11801" ; Times: 1
+	Query: "specificepithet:pavonina genus:Balearica" ; Times: 1
+	Query: "Callipepla squamata mappable:1" ; Times: 1
+	Query: "sedge wren" ; Times: 1
+	Query: "leucophaeus atricilla" ; Times: 1
+	Query: "specificepithet:rufipennis genus:geositta" ; Times: 1
+	Query: "class:aves locality:Sun-Moon" ; Times: 1
+	Query: "Auriparus flaviceps flaviceps mappable:1" ; Times: 5
+	Query: "vntype:specimen specificepithet:polyglottos genus:mimus (skeleton)" ; Times: 2
+	Query: "yellow-billed cuckoo hastissue:1" ; Times: 1
+	Query: "Asthenes modesta" ; Times: 1
+	Query: "8560 genus:Colinus" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 4
+	Query: "genus:otis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1227 download events in this period)
+Total number of records downloaded: 651
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: United States ; Times: 15
+	Country: Israel ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-13 ; Times: 7
+	Date: 2019-02-11 ; Times: 6
+	Date: 2019-02-03 ; Times: 3
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 5
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-07 ; Times: 2
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "harpia harpyja" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "Stigmatura napensis class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "specificepithet:platensis genus:leptasthenura" ; Times: 1
+	Query: "specificepithet:versicolor genus:Passerina year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "specificepithet:lineata genus:conopophaga" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:polyglottos genus:mimus" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "genus:Taeniopygia basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "montezuma quail" ; Times: 1
+	Query: "specificepithet:canus genus:picus" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "specificepithet:rufipennis genus:geositta" ; Times: 1
+	Query: "vntype:specimen specificepithet:polyglottos genus:mimus (skeleton)" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:migratorius genus:turdus" ; Times: 1
+	Query: "vntype:specimen specificepithet:militaris genus:Sturnella class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridicata genus:Myiopagis" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "Eastern screech owl hastissue:1" ; Times: 1
+	Query: "specificepithet:flavus genus:celeus" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+
+End of report.
