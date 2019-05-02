@@ -1,0 +1,183 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 520
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 3
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Nigeria ; Times: 1
+	Country: United States ; Times: 57
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 5
+	Date: 2019-04-23 ; Times: 4
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 5
+	Date: 2019-04-10 ; Times: 7
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-03 ; Times: 6
+	Date: 2019-04-06 ; Times: 7
+	Date: 2019-04-22 ; Times: 12
+	Date: 2019-04-05 ; Times: 7
+	Date: 2019-04-20 ; Times: 3
+	Date: 2019-04-26 ; Times: 3
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "imperial woodpecker" ; Times: 1
+	Query: "parkesia" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 3
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "tyrannus forficatus hastissue:1" ; Times: 1
+	Query: "specificepithet:querula genus:Zonotrichia hastissue:1" ; Times: 1
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skeleton" ; Times: 1
+	Query: "Oenanthe phillipsi" ; Times: 3
+	Query: "Ciconia maguari" ; Times: 2
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "LUK" ; Times: 1
+	Query: "16987" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes sex:male preparations:skeleton" ; Times: 2
+	Query: "specificepithet:decaocto genus:Streptopelia hastissue:1" ; Times: 1
+	Query: "amazona viridigenalis" ; Times: 2
+	Query: "genus:Dendrortyx" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "Setophaga dominica" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 2
+	Query: "great horned owl" ; Times: 1
+	Query: "mounted vntype:specimen genus:Buphagus" ; Times: 2
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 3
+	Query: "zonotrichia querula hastissue:1" ; Times: 1
+	Query: "foulehaio carunculatus" ; Times: 1
+	Query: "class:Aves catalognumber:15155.0 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Pheucticus stateprovince:&#34;New York&#34; sex:male year &gt;= 1945" ; Times: 2
+	Query: "specificepithet:bellii genus:Vireo class:Aves year &gt;= 1914 year &lt;= 1914" ; Times: 1
+	Query: "class:Aves catalognumber:4587.0 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atricilla genus:Leucophaeus" ; Times: 1
+	Query: "harpia harpyja" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "Black-headed Grosbeak" ; Times: 1
+	Query: "ruffed grouse" ; Times: 3
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "vulture" ; Times: 1
+	Query: "specificepithet:ciris genus:Passerina sex:female year &gt;= 1960" ; Times: 2
+	Query: "willow flycatcher" ; Times: 1
+	Query: "specificepithet:ciris genus:Passerina year &gt;= 1960" ; Times: 1
+	Query: "golden-cheeked warbler" ; Times: 2
+	Query: "Red-naped Sapsucker" ; Times: 2
+	Query: "Melanerpes aurifrons hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; recordedby:Brown" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 2
+	Query: "Melanerpes aurifrons year &gt;= 1985 year &lt;= 2019" ; Times: 3
+	Query: "specificepithet:sinuatus genus:Cardinalis country:&#34;Mexico&#34; year &gt;= 1950 year &lt;= 2018" ; Times: 2
+	Query: "11235" ; Times: 1
+	Query: "black-bellied whistling duck" ; Times: 1
+	Query: "specificepithet:versicolor genus:Passerina year &gt;= 1960" ; Times: 1
+	Query: "specificepithet:Gentilis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:atricristatus genus:Baeolophus hastissue:1" ; Times: 1
+	Query: "thamnolaea semirufa" ; Times: 1
+	Query: "Cossypha semirufa" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "plegadis falcinellus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Band-tailed Sierra-finch" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "lamprotornis regius" ; Times: 1
+	Query: "buceros bicornis" ; Times: 1
+	Query: "Common raven" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "M-14857" ; Times: 1
+	Query: "Psittacula" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1263 download events in this period)
+Total number of records downloaded: 458
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Canada ; Times: 11
+	Country: Belize ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 3
+	Date: 2019-04-10 ; Times: 10
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-22 ; Times: 8
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:fischeri genus:agapornis" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:pitta" ; Times: 1
+	Query: "specificepithet:delphinae genus:colibri" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Oklahoma" ; Times: 1
+	Query: "class:aves (Belize)" ; Times: 1
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Kansas" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:New Mexico" ; Times: 1
+	Query: "vntype:specimen genus:Baeolophus hastissue:1" ; Times: 1
+	Query: "Catharus dryas" ; Times: 1
+	Query: "specificepithet:thalassinus genus:colibri" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2019" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga hastissue:1" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "specificepithet:sanblasianus genus:cyanocorax" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "specificepithet:satyra genus:Tragopan" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+	Query: "pitta" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Texas" ; Times: 1
+
+
+End of report.
