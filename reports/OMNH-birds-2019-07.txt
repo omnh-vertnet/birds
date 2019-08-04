@@ -1,0 +1,244 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 181
+Number of records retrieved in searches: 2702
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 131
+	Country: Colombia ; Times: 12
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: Nepal ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Sweden ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Gambia ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Venezuela ; Times: 2
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 10
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 7
+	Date: 2019-07-12 ; Times: 10
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 7
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-16 ; Times: 4
+	Date: 2019-07-17 ; Times: 6
+	Date: 2019-07-15 ; Times: 7
+	Date: 2019-07-29 ; Times: 4
+	Date: 2019-07-23 ; Times: 5
+	Date: 2019-07-08 ; Times: 47
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-20 ; Times: 6
+	Date: 2019-07-26 ; Times: 7
+	Date: 2019-07-25 ; Times: 6
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-01 ; Times: 7
+	Date: 2019-07-30 ; Times: 15
+	Date: 2019-07-03 ; Times: 10
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-05 ; Times: 5
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "genus:Sturnus" ; Times: 1
+	Query: "genus:Uria specificepithet:lomvia" ; Times: 1
+	Query: "genus:Megaceryle specificepithet:alcyon" ; Times: 1
+	Query: "Anas fulvigula mappable:1" ; Times: 1
+	Query: "house wren" ; Times: 1
+	Query: "black hawk-eagle" ; Times: 1
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "recordedby:Holland" ; Times: 1
+	Query: "genus:Pandion" ; Times: 1
+	Query: "Phoebastria irrorata" ; Times: 1
+	Query: "recordedby:PAYNE" ; Times: 1
+	Query: "class:Aves recordedby:Glass basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "OMNH 23616" ; Times: 2
+	Query: "Charadrius melodus mappable:1" ; Times: 1
+	Query: "genus:Lampornis specificepithet:clemenciae" ; Times: 1
+	Query: "setophaga striata" ; Times: 1
+	Query: "royal tern skeleton" ; Times: 1
+	Query: "genus:Spiza specificepithet:americana" ; Times: 1
+	Query: "genus:Bubo" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:forcipata genus:Macropsalis class:Aves" ; Times: 1
+	Query: "phoebastria irrorata" ; Times: 2
+	Query: "gbifdatasetid:84b018de-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "genus:Nandayus specificepithet:nenday" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;New Jersey&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "Tree swallow" ; Times: 2
+	Query: "genus:Gallus" ; Times: 1
+	Query: "genus:Ptilinopus  specificepithet:melanospilus" ; Times: 2
+	Query: "crossoptilon harmani" ; Times: 2
+	Query: "nighthawk" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "campephilus imperialis institutioncode:OMNH" ; Times: 2
+	Query: "orange-crowned warbler hastissue:1" ; Times: 3
+	Query: "specificepithet:tolmiei genus:Geothlypis year &gt;= 1980 month &gt;= 7 month &lt;= 9" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinus genus:Melanerpes preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "genus:Corvus specificepithet:corax" ; Times: 1
+	Query: "megascops asio" ; Times: 3
+	Query: "recordedby:Payne" ; Times: 1
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "northern harrier" ; Times: 1
+	Query: "10780" ; Times: 1
+	Query: "Sternula antillarum mappable:1" ; Times: 5
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 1
+	Query: "genus:Rallus specificepithet:limicola" ; Times: 1
+	Query: "Cedar waxwing" ; Times: 1
+	Query: "genus:Podilymbus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sclateri genus:Asthenes" ; Times: 2
+	Query: "genus:Strix specificepithet:varia" ; Times: 1
+	Query: "genus:Egretta specificepithet:thula" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "genus:Protonotaria specificepithet:citrea" ; Times: 1
+	Query: "gbifdatasetid:84b018de-f762-11e1-a439-00145eb45e9a procellariiformes" ; Times: 2
+	Query: "specificepithet:nelsoni genus:vireo" ; Times: 2
+	Query: "23148" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Apure&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Spinus specificepithet:pinus" ; Times: 1
+	Query: "genus:Tachybaptus specificepithet:dominicus" ; Times: 1
+	Query: "genus:setophaga class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Mniotilta" ; Times: 1
+	Query: "genus:Phasianus" ; Times: 1
+	Query: "Blue-breasted Quail" ; Times: 2
+	Query: "genus:Columba specificepithet:livia" ; Times: 1
+	Query: "genus:Haliaeetus" ; Times: 1
+	Query: "specificepithet:livia genus:columba continent:north america" ; Times: 1
+	Query: "Vultur gryphus (Peru)" ; Times: 2
+	Query: "Poicephalus senegalus" ; Times: 1
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:semirufa genus:Cossypha country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "genus:Sternula specificepithet:antillarum" ; Times: 1
+	Query: "genus:Polioptila specificepithet:caerulea" ; Times: 1
+	Query: "Northern Parula" ; Times: 4
+	Query: "genus:Rynchops specificepithet:niger" ; Times: 1
+	Query: "mycteria" ; Times: 1
+	Query: "vntype:specimen genus:Coragyps" ; Times: 2
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "genus:Limnodromus " ; Times: 1
+	Query: "specificepithet:semirufa genus:Cossypha country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "genus:Athene specificepithet:cunicularia" ; Times: 1
+	Query: "genus:Clangula specificepithet:hyemalis" ; Times: 1
+	Query: "sora" ; Times: 1
+	Query: "genus:Bonasa" ; Times: 1
+	Query: "setophaga americana" ; Times: 1
+	Query: "genus:Oxyura specificepithet:jamaicensis" ; Times: 1
+	Query: "red crossbill" ; Times: 2
+	Query: "recordedby:Glass basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vireo marshall" ; Times: 1
+	Query: "country:&#34;thailand&#34; continent:asia institutioncode:OMNH" ; Times: 1
+	Query: "&#34;Lacey&#34;" ; Times: 1
+	Query: "indigo bunting" ; Times: 7
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "genus:Pagodroma specificepithet:nivea" ; Times: 1
+	Query: "genus:Seiurus specificepithet:aurocapilla" ; Times: 1
+	Query: "Mountain Plover" ; Times: 1
+	Query: "specificepithet:livia genus:columba country:&#34;mexico&#34;" ; Times: 1
+	Query: "Molothrus bonariensis mappable:1" ; Times: 1
+	Query: "genus:Pluvialis specificepithet:dominica" ; Times: 1
+	Query: "genus:Cathartes specificepithet:aura" ; Times: 1
+	Query: "Chen caerulescens" ; Times: 2
+	Query: "Sora" ; Times: 1
+	Query: "Chalcopsitta duivenbodei" ; Times: 2
+	Query: "Meleagris gallopavo year &gt;= 1980 year &lt;= 1982" ; Times: 2
+	Query: "Coccyzus americanus americanus mappable:1" ; Times: 1
+	Query: "genus:Nyctidromus specificepithet:albicollis" ; Times: 1
+	Query: "Setophaga americana" ; Times: 9
+	Query: "mountain plover" ; Times: 1
+	Query: "genus:Lathrotriccus specificepithet:euleri" ; Times: 1
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "OMNH 23148" ; Times: 1
+	Query: "specificepithet:sclateri genus:Asthenes" ; Times: 1
+	Query: "oreothlypis celata hastissue:1" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "genus:Gavia specificepithet:immer" ; Times: 1
+	Query: "northern parula" ; Times: 1
+	Query: "genus:Meleagris" ; Times: 1
+	Query: "tanager" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 985 download events in this period)
+Total number of records downloaded: 730
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-02 ; Times: 10
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-31 ; Times: 11
+	Date: 2019-07-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "skin vntype:specimen specificepithet:fasciatus genus:Myiophobus class:Aves" ; Times: 1
+	Query: "specificepithet:collaris genus:trogon" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:nigriceps genus:Turdus class:Aves" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:aequinoctialis genus:Geothlypis class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:griseicapillus genus:Sittasomus class:Aves" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:gujanensis genus:Cyclarhis class:Aves" ; Times: 1
+	Query: "phoenicopterus chilensis" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:sayaca genus:Thraupis class:Aves" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "spizella" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "skin vntype:specimen specificepithet:melanonota genus:Pipraeidea class:Aves" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Fulmarus glacialis year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+	Query: "Paradoxornis" ; Times: 1
+	Query: "Meleagris gallopavo year &gt;= 1980 year &lt;= 1982" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:euleri genus:Lathrotriccus class:Aves" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:caerulescens genus:Thamnophilus class:Aves" ; Times: 1
+	Query: "crax rubra" ; Times: 8
+	Query: "upupa epops" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:bonariensis genus:Thraupis class:Aves" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Apure&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
