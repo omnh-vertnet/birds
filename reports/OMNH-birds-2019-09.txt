@@ -1,0 +1,203 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 205
+Number of records retrieved in searches: 4130
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 2
+	Country: Cuba ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 174
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Kuwait ; Times: 1
+	Country: Argentina ; Times: 8
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 12
+	Date: 2019-09-17 ; Times: 7
+	Date: 2019-09-10 ; Times: 7
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-13 ; Times: 10
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-30 ; Times: 4
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-07 ; Times: 4
+	Date: 2019-09-06 ; Times: 106
+	Date: 2019-09-04 ; Times: 3
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-23 ; Times: 6
+	Date: 2019-09-25 ; Times: 5
+	Date: 2019-09-24 ; Times: 11
+	Date: 2019-09-27 ; Times: 4
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:ararauna genus:Ara year &gt;= 1970 hassex:1" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:B Arnold year &gt;= 1978 year &lt;= 2016 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "omnh" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "phalarope" ; Times: 2
+	Query: "sharp tailed grouse" ; Times: 1
+	Query: "Black-throated Blue Warbler hastissue:1" ; Times: 1
+	Query: "preparations:skeleton dryocopus" ; Times: 3
+	Query: "black headed grosbeak vntype:specimen hastissue:1" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "eastern meadowlark" ; Times: 3
+	Query: "Calidris canutus" ; Times: 5
+	Query: "Lions" ; Times: 2
+	Query: "laterallus leucopyrrhus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "upland sandpiper" ; Times: 2
+	Query: "10430" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "vntype:specimen county:&#34;Payne&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "county:&#34;Benton&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "chestnut-sided warbler" ; Times: 1
+	Query: "western tanager" ; Times: 1
+	Query: "campephilus imperialis institutioncode:OMNH" ; Times: 1
+	Query: "genus:Bucorvus sex:Female" ; Times: 2
+	Query: "genus:limosa haemastica" ; Times: 2
+	Query: "16994." ; Times: 1
+	Query: "purple finch" ; Times: 2
+	Query: "Laterallus leucopyrrhus" ; Times: 4
+	Query: "genus:coturnicops" ; Times: 1
+	Query: "specificepithet:gouldiae family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "tyrannus 1180" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 6
+	Query: "Empidonax traillii" ; Times: 20
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "specificepithet:pulverulentus genus:Mulleripicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "black headed grosbeak" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "bay-breasted" ; Times: 1
+	Query: "vireo griseus" ; Times: 1
+	Query: "tufted titmouse" ; Times: 1
+	Query: "laterallus leucopyrrhus" ; Times: 3
+	Query: "Coccyzus americanus" ; Times: 25
+	Query: "campephilus imperialis OMNH" ; Times: 2
+	Query: "common yellowthroat" ; Times: 5
+	Query: "specificepithet:livia genus:Columba year &lt;= 2000" ; Times: 1
+	Query: "1180 tyrannus" ; Times: 1
+	Query: "family:phoenicopteridae hastissue:1" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "genus:Pelecanus sex:Female (Egg OR Ova OR Ovum OR Ovary OR Oviduct)" ; Times: 1
+	Query: "arctic tern" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "collared dove" ; Times: 1
+	Query: "specificepithet:torquatus genus:Arremon" ; Times: 2
+	Query: "Perisoreus canadensis alberta" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops institutioncode:OMNH" ; Times: 1
+	Query: "vntype:specimen genus:Xenicus class:Aves" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "vntype:specimen specificepithet:longipes genus:Xenicus" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 45
+	Query: "genus:limosa haemastica institutioncode" ; Times: 2
+	Query: "mourning dove" ; Times: 1
+	Query: "Dryocopus pileatus skeleton" ; Times: 2
+	Query: "genus:Pelecanus sex:Female preparations:Skeleton (Egg OR Ova OR Ovum OR Ovary OR Oviduct)" ; Times: 1
+	Query: "Setophaga auduboni year &gt;= 1980 month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Setophaga auduboni month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "elegans Trogon Female" ; Times: 1
+	Query: "Ictinia mississippiensis distance(location,geopoint(33.80220134903146,-98.21587224960564))&lt;100000" ; Times: 1
+	Query: "mourning dove wing" ; Times: 1
+	Query: "painted bunting" ; Times: 1
+	Query: "bay-breasted warbler" ; Times: 2
+	Query: "ruby-throated hummingbird" ; Times: 1
+	Query: "specificepithet:longipes genus:Xenicus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1073 download events in this period)
+Total number of records downloaded: 520
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 22
+	Country: Rwanda ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-10 ; Times: 5
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-04 ; Times: 2
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Black-throated Blue Warbler hastissue:1" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "laterallus leucopyrrhus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "Junco hyemalis month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "Amazilia chionogaster" ; Times: 2
+	Query: "Chlorostilbon aureoventris" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "specificepithet:personatus collectioncode:Birds" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops institutioncode:OMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:longipes genus:Xenicus" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+
+
+End of report.
