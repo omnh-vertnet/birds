@@ -1,0 +1,157 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 2414
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 14
+	Country: United Kingdom ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 73
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-03 ; Times: 7
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-01 ; Times: 4
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-20 ; Times: 15
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-24 ; Times: 9
+	Date: 2020-01-27 ; Times: 5
+	Date: 2020-01-29 ; Times: 17
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-23 ; Times: 7
+	Date: 2020-01-14 ; Times: 10
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Numenius stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "locality:hacienda san antonio " ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:twomey basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vireo bellii hastissue:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Mallard Duck" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:tridactyla genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "mallard" ; Times: 3
+	Query: "specificepithet:asio genus:megascops institutioncode:OMNH" ; Times: 5
+	Query: "jocosus Pycnonotus" ; Times: 1
+	Query: "Ciconia maguari" ; Times: 1
+	Query: "13731" ; Times: 1
+	Query: "Brewer’s sparrow" ; Times: 2
+	Query: "bobcat" ; Times: 2
+	Query: "specificepithet:bicolor genus:accipiter" ; Times: 1
+	Query: "black-bellied whistling-duck" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter institutioncode:OMNH" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:OMNH" ; Times: 1
+	Query: "lesser-whistling duck" ; Times: 2
+	Query: "carolina parakeet" ; Times: 1
+	Query: "genus:Zonotrichia year &gt;= 2000 year &lt;= 2019 institutioncode:OMNH" ; Times: 1
+	Query: "semple" ; Times: 1
+	Query: "Purple Gallinule" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;peru&#34;" ; Times: 1
+	Query: "longspur noble" ; Times: 11
+	Query: "Ara militaris" ; Times: 7
+	Query: "12356" ; Times: 1
+	Query: "setophaga fusca" ; Times: 1
+	Query: "domesticus Passer" ; Times: 1
+	Query: "bicolored hawk" ; Times: 2
+	Query: "vntype:specimen specificepithet:tridactyla genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Stigmatura napensis" ; Times: 2
+	Query: "Northern shoveler" ; Times: 1
+	Query: "aves catharus occidentalis skel OR skeleton country:Mexico" ; Times: 1
+	Query: "Myiarchus crinitus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "ruddy shelduck" ; Times: 5
+	Query: "short eared owl" ; Times: 2
+	Query: "vireo atricapilla" ; Times: 1
+	Query: "common poorwill" ; Times: 2
+	Query: "Melanerpes aurifrons AND Oklahoma" ; Times: 2
+	Query: "petechia petechia skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "Silver-breasted broadbill" ; Times: 1
+	Query: "short-eared owl" ; Times: 1
+	Query: "county:&#34;ellis&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Myiarchus cinerascens skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "American kestrel" ; Times: 2
+	Query: "cape may warbler" ; Times: 1
+	Query: "Common merganser" ; Times: 2
+	Query: "Mexico Spizella passerina skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skeleton" ; Times: 5
+	Query: "genus:Caprimulgus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Orange-headed Thrush" ; Times: 2
+	Query: "bushtit" ; Times: 4
+	Query: "red knot" ; Times: 1
+	Query: "kentucky warbler" ; Times: 1
+	Query: "Neochen" ; Times: 1
+	Query: "county:&#34;ellis&#34; stateprovince:&#34;oklahoma&#34; (c)" ; Times: 1
+	Query: "specificepithet:bendirei genus:Toxostoma class:Aves stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Black Rail" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1584 download events in this period)
+Total number of records downloaded: 1487
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "specificepithet:asio genus:megascops institutioncode:OMNH" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Payne" ; Times: 1
+	Query: "longspur noble" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "Ciconia maguari" ; Times: 1
+
+
+End of report.
