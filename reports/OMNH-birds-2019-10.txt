@@ -1,0 +1,254 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 1655
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 27
+	Country: India ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Belgium ; Times: 3
+	Country: Taiwan ; Times: 3
+	Country: United States ; Times: 111
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-22 ; Times: 34
+	Date: 2019-10-21 ; Times: 5
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-24 ; Times: 26
+	Date: 2019-10-01 ; Times: 4
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-04 ; Times: 6
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-23 ; Times: 10
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-18 ; Times: 5
+	Date: 2019-10-02 ; Times: 6
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 8
+	Date: 2019-10-11 ; Times: 5
+	Date: 2019-10-16 ; Times: 5
+	Date: 2019-10-31 ; Times: 6
+	Date: 2019-10-14 ; Times: 3
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-30 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "Setophaga chrysoparia" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "institutioncode:omnh" ; Times: 1
+	Query: "blue winged teal" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "common quail" ; Times: 4
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "setophaga discolor" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:OMNH" ; Times: 1
+	Query: "16467" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "Stercorariidae continent:America" ; Times: 3
+	Query: "Platalea" ; Times: 2
+	Query: "Linton AND Clemente" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "pusilla Cardellina" ; Times: 3
+	Query: "platycercus Selasphorus" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "spoonbill" ; Times: 2
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "white-throated sparrow" ; Times: 4
+	Query: "omnh 8648" ; Times: 1
+	Query: "indigo bunting" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Coccyzus americanus 1997" ; Times: 1
+	Query: "Coccyzus americanus 1992" ; Times: 1
+	Query: "Coccyzus americanus 1993" ; Times: 1
+	Query: "Coccyzus americanus 1991" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 1
+	Query: "&#34;Coturnix coturnix&#34;" ; Times: 1
+	Query: "cape disappointment" ; Times: 1
+	Query: "Xema sabini continent:America" ; Times: 2
+	Query: "Zonotrichia querula mappable:1" ; Times: 1
+	Query: "black-throated green" ; Times: 1
+	Query: "venezuelan troupial" ; Times: 4
+	Query: "Mourning dove" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "setophaga virens" ; Times: 1
+	Query: "specificepithet:nigripes" ; Times: 2
+	Query: "10495" ; Times: 2
+	Query: "11893" ; Times: 3
+	Query: "Coccyzus americanus 1981" ; Times: 1
+	Query: "Coccyzus americanus 1980" ; Times: 1
+	Query: "Coccyzus americanus 1982" ; Times: 1
+	Query: "Coccyzus americanus 1986" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "warbling vireo" ; Times: 1
+	Query: "Coccyzus americanus 1978" ; Times: 1
+	Query: "Coccyzus americanus 1979" ; Times: 1
+	Query: "Coccyzus americanus 1974" ; Times: 1
+	Query: "Coccyzus americanus 1975" ; Times: 1
+	Query: "Coccyzus americanus 1976" ; Times: 1
+	Query: "Coccyzus americanus 1977" ; Times: 1
+	Query: "caerulescens Setophaga" ; Times: 10
+	Query: "Coccyzus americanus 1972" ; Times: 1
+	Query: "Coccyzus americanus 1973" ; Times: 1
+	Query: "Oenanthe phillipsi vntype:specimen" ; Times: 1
+	Query: "magpie wing" ; Times: 2
+	Query: "Stercorariidae continent:North America" ; Times: 3
+	Query: "bobcat" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "M 1607" ; Times: 1
+	Query: "Vermivora chrysoptera" ; Times: 1
+	Query: "vireo atricapilla" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "Spinus tristis mappable:1" ; Times: 2
+	Query: "párabuteo" ; Times: 1
+	Query: "institutioncode:OMNH hastissue:1" ; Times: 2
+	Query: "Coccyzus americanus 2017" ; Times: 3
+	Query: "Coccyzus americanus 2010" ; Times: 1
+	Query: "Coccyzus americanus 2011" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "barn swallow" ; Times: 1
+	Query: "10492" ; Times: 2
+	Query: "Coccyzus americanus 2009" ; Times: 1
+	Query: "Coccyzus americanus 2008" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "recordedby:Brewer" ; Times: 1
+	Query: "Coccyzus americanus 2001" ; Times: 1
+	Query: "Coccyzus americanus 2003" ; Times: 1
+	Query: "Coccyzus americanus 2005" ; Times: 1
+	Query: "Coccyzus americanus 2004" ; Times: 1
+	Query: "Coccyzus americanus 2007" ; Times: 1
+	Query: "Linton AND Island AND 1908" ; Times: 1
+	Query: "black-chinned hummingbird" ; Times: 1
+	Query: "12619" ; Times: 2
+	Query: "13267" ; Times: 3
+	Query: "mississippi Kite" ; Times: 1
+	Query: "Mycteria americana 2017" ; Times: 1
+	Query: "yellow-bellied sapsucker" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 4
+	Query: "Setophaga americana" ; Times: 1
+	Query: "12953" ; Times: 1
+	Query: "geothlypis philadelphia year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Charadrius melodus 2017" ; Times: 1
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 3
+	Query: "Charadrius melodus 1977" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "hummingbird" ; Times: 1
+	Query: "parabuteo" ; Times: 1
+	Query: "golden-cheeked warbler" ; Times: 1
+	Query: "Stercorariidae continent:America North" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1308 download events in this period)
+Total number of records downloaded: 1577
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 48
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-23 ; Times: 2
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-04 ; Times: 10
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-18 ; Times: 7
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-17 ; Times: 6
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Passer domesticus hastissue:1" ; Times: 1
+	Query: "Geospiza" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "Setophaga chrysoparia" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 5
+	Query: "Tangara" ; Times: 2
+	Query: "diglossa" ; Times: 1
+	Query: "Camarhynchus" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Madras" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 2
+	Query: "Setophaga virens" ; Times: 1
+	Query: "specificepithet:bewickii genus:Thryomanes hastissue:1" ; Times: 2
+	Query: "Certhidea" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "Setophaga americana" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "genus:Thryomanes country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "Setophaga townsendi" ; Times: 2
+	Query: "setophaga virens" ; Times: 2
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Madras&#34;" ; Times: 1
+	Query: "toxostoma crissale" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "genus:ortygospiza class:aves" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 4
+	Query: "Oreothlypis ruficapilla" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+
+
+End of report.
