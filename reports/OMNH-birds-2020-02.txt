@@ -1,0 +1,207 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 162
+Number of records retrieved in searches: 2668
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 114
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 3
+	Country: Uruguay ; Times: 19
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 8
+	Country: Dominican Republic ; Times: 1
+	Country: Norway ; Times: 3
+	Country: Argentina ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 5
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-25 ; Times: 7
+	Date: 2020-02-26 ; Times: 5
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-20 ; Times: 16
+	Date: 2020-02-21 ; Times: 13
+	Date: 2020-02-22 ; Times: 5
+	Date: 2020-02-23 ; Times: 6
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-11 ; Times: 4
+	Date: 2020-02-10 ; Times: 7
+	Date: 2020-02-13 ; Times: 6
+	Date: 2020-02-12 ; Times: 7
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 5
+	Date: 2020-02-17 ; Times: 25
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 12
+	Date: 2020-02-24 ; Times: 12
+	Date: 2020-02-03 ; Times: 4
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-07 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "2-6775" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "14267" ; Times: 1
+	Query: "cinclodes year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "hastissue:1 Rhynchophanes mccownii noble" ; Times: 1
+	Query: "15683" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 3
+	Query: "Tachycineta thalassina" ; Times: 1
+	Query: "Sam noble" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "Calcarius lapponicus" ; Times: 2
+	Query: "bald eagle" ; Times: 1
+	Query: "Pteruthius flaviscapis" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Boise 1980" ; Times: 1
+	Query: "specificepithet:alcyon genus:Megaceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "phoebastria irrorata" ; Times: 3
+	Query: "hastissue:1 Calcarius ornatus noble" ; Times: 1
+	Query: "downy woodpecker" ; Times: 1
+	Query: "palm warbler" ; Times: 1
+	Query: "Greater Sage Grouse" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "NA NA" ; Times: 3
+	Query: "snowy owl" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:lineatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "basisofrecord:PreservedSpecimen Greater Sage Grouse" ; Times: 1
+	Query: "rusty blackbird" ; Times: 1
+	Query: "genus:Campephilus institutioncode:OMNH" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Calcarius pictus" ; Times: 2
+	Query: "longspur noble" ; Times: 2
+	Query: "Pteruthius flaviscapis nepal" ; Times: 1
+	Query: "neochen jubata" ; Times: 10
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:OMNH" ; Times: 1
+	Query: "northern cardinal" ; Times: 4
+	Query: "Prothonotary Warbler" ; Times: 3
+	Query: "17132" ; Times: 2
+	Query: "16240" ; Times: 1
+	Query: "western meadowlark" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 2
+	Query: "warbling vireo" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 2
+	Query: "snow owl" ; Times: 2
+	Query: "Melanerpes institutioncode:OMNH" ; Times: 3
+	Query: "Melanerpes institutioncode:OMNH hastissue:1" ; Times: 3
+	Query: "belted kingfisher" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 4
+	Query: "Calcarius ornatus noble" ; Times: 2
+	Query: "Callipepla douglasii" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:OMNH" ; Times: 1
+	Query: "Elegant Quail" ; Times: 1
+	Query: "12020" ; Times: 1
+	Query: "red wing blackbird" ; Times: 1
+	Query: "arctic tern" ; Times: 1
+	Query: "eastern phoebe" ; Times: 1
+	Query: "red crossbill" ; Times: 1
+	Query: "waved albatross" ; Times: 2
+	Query: "Pine Siskin" ; Times: 1
+	Query: "Banded Quail" ; Times: 1
+	Query: "aviceda leuphotes vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "Wood duck" ; Times: 3
+	Query: "Neochen jubata" ; Times: 2
+	Query: "western gull" ; Times: 3
+	Query: "black-legged kittiwake" ; Times: 1
+	Query: "Sam noble Calcarius" ; Times: 3
+	Query: "neochen" ; Times: 2
+	Query: "Cinclodes fuscus year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "Leptasthenura aegithaloides year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "genus:neochen preparations:skeleton" ; Times: 10
+	Query: "aviceda leuphotes vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 11
+	Query: "anas discors" ; Times: 1
+	Query: "Osprey" ; Times: 1
+	Query: "prairie chicken" ; Times: 3
+	Query: "great egret" ; Times: 1
+	Query: "black rosy-finch" ; Times: 1
+	Query: "long-tailed duck" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "vntype:specimen specificepithet:alba genus:Ardea class:aves country:&#34;United States&#34;" ; Times: 6
+	Query: "7239" ; Times: 1
+	Query: "Ortygospiza atricollis" ; Times: 1
+	Query: "eastern screech owl" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "specificepithet:imperialis genus:Campephilus institutioncode:OMNH" ; Times: 2
+	Query: "15969" ; Times: 1
+	Query: "Foulehaio Samoa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1023 download events in this period)
+Total number of records downloaded: 595
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-07 ; Times: 3
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "setophaga coronata auduboni" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "Cardellina rubra rubra" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "hastissue:1 Rhynchophanes mccownii noble" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 2
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "hastissue:1 Calcarius ornatus noble" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 1
+
+
+End of report.
