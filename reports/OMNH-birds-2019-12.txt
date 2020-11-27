@@ -1,0 +1,141 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 361
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Peru ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 1
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-26 ; Times: 2
+	Date: 2019-12-21 ; Times: 3
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-22 ; Times: 2
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-28 ; Times: 9
+	Date: 2019-12-18 ; Times: 4
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 2
+	Date: 2019-12-09 ; Times: 8
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-07 ; Times: 3
+	Date: 2019-12-06 ; Times: 4
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-04 ; Times: 14
+	Date: 2019-12-03 ; Times: 3
+	Date: 2019-12-02 ; Times: 7
+	Date: 2019-12-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "Vermivora cyanoptera" ; Times: 2
+	Query: "OMNH 23768" ; Times: 2
+	Query: "Turnix sylvaticus" ; Times: 1
+	Query: "mallard duck" ; Times: 2
+	Query: "chroicocephalus philadelphia" ; Times: 1
+	Query: "xenicus longipes" ; Times: 2
+	Query: "17045" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "trochilidae spread wing" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "specificepithet:palustris genus:cistothorus (279)" ; Times: 1
+	Query: "White Ibis" ; Times: 2
+	Query: "11270." ; Times: 1
+	Query: "HARRIER" ; Times: 1
+	Query: "279 specificepithet:palustris genus:cistothorus" ; Times: 1
+	Query: "wood duck" ; Times: 1
+	Query: "20195" ; Times: 1
+	Query: "L.R. Wolfe" ; Times: 2
+	Query: "Numida+meleagris" ; Times: 1
+	Query: "Eudocimus ibis" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 2
+	Query: "anhima cornuta" ; Times: 2
+	Query: "specificepithet:cristatus genus:Pavo hastissue:1" ; Times: 1
+	Query: "13208" ; Times: 1
+	Query: "carolina parakeet basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "Sturnella magna year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "house wren" ; Times: 1
+	Query: "14865" ; Times: 1
+	Query: "OMNH 23496" ; Times: 3
+	Query: "OMNH 23497" ; Times: 1
+	Query: "vulture" ; Times: 1
+	Query: "vntype:specimen genus:caracara family:falconidae preparations:skeleton" ; Times: 1
+	Query: "ovary bombycilla" ; Times: 1
+	Query: "dickcissel" ; Times: 1
+	Query: "Vireo nelsoni" ; Times: 1
+	Query: "american golden plover" ; Times: 1
+	Query: "(Bald eagle)" ; Times: 6
+	Query: "sitta pusilla vntype:specimen" ; Times: 2
+	Query: "OMNH 23783" ; Times: 1
+	Query: "OMNH 23790" ; Times: 1
+	Query: "rufous hummingbird" ; Times: 2
+	Query: "ovary sitta" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 2
+	Query: "Pied Billed Grebe" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "8280 genus:Cistothorus" ; Times: 2
+	Query: "peregrine falcon" ; Times: 2
+	Query: "13110" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "red knot" ; Times: 1
+	Query: "swamp sparrow" ; Times: 1
+	Query: "11719" ; Times: 1
+	Query: "ovary regulus" ; Times: 5
+	Query: "specificepithet:phoebe class:aves year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 596 download events in this period)
+Total number of records downloaded: 164
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Hong Kong ; Times: 2
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "spinus tristis pallidus" ; Times: 1
+	Query: "vntype:specimen genus:Fulmarus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "vntype:specimen genus:caracara family:falconidae preparations:skeleton" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "Timm" ; Times: 1
+
+
+End of report.
