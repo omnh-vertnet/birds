@@ -1,0 +1,163 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 501
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ireland ; Times: 5
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 1
+	Country: United States ; Times: 38
+	Country: Malaysia ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Spain ; Times: 2
+	Country: Peru ; Times: 10
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-22 ; Times: 11
+	Date: 2020-07-01 ; Times: 3
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 6
+	Date: 2020-07-11 ; Times: 4
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-07 ; Times: 9
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-20 ; Times: 2
+	Date: 2020-07-14 ; Times: 7
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-28 ; Times: 6
+	Date: 2020-07-10 ; Times: 11
+	Date: 2020-07-29 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "Worm-eating warbler vntype:specimen" ; Times: 2
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "Cercotrichas barbata" ; Times: 2
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "chroicocephalus philadelphia" ; Times: 10
+	Query: "Gray Jay" ; Times: 1
+	Query: "Corvus corax" ; Times: 2
+	Query: "Chroicocephalus philadelphia" ; Times: 3
+	Query: "16350" ; Times: 1
+	Query: "20502" ; Times: 1
+	Query: "11163" ; Times: 1
+	Query: "13364" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "10347" ; Times: 1
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "Ampeliceps coronatus" ; Times: 1
+	Query: "Buteo harlani" ; Times: 2
+	Query: "specificepithet:anna genus:Calypte institutioncode:OMNH" ; Times: 1
+	Query: "recordedby:Labedz" ; Times: 2
+	Query: "Glareola lactea" ; Times: 2
+	Query: "Los Angeles Zoo" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 3
+	Query: "peafowl" ; Times: 3
+	Query: "OMNH 1460" ; Times: 1
+	Query: "13222" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "megaceryle alcyon" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:OMNH" ; Times: 1
+	Query: "northern goshawk" ; Times: 2
+	Query: "northern cardinal" ; Times: 2
+	Query: "10347 aves" ; Times: 1
+	Query: "OMNH 4025" ; Times: 3
+	Query: "5867 aves" ; Times: 1
+	Query: "ensifera ensifera aves south america" ; Times: 1
+	Query: "Cursorius temminckii" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "buteo jamaicensis harlani" ; Times: 1
+	Query: "OMNH 1592" ; Times: 1
+	Query: "Sterna repressa" ; Times: 3
+	Query: "Carolina parakeet" ; Times: 2
+	Query: "Crossoptilon harmani vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "worm-eating warbler" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "genus:Tympanuchus recordedby:Labedz" ; Times: 3
+	Query: "M-16350" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "OMNH 2328" ; Times: 1
+	Query: "OMNH 3839" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:niger order:galliformes" ; Times: 2
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "nothoprocta pentlandii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 940 download events in this period)
+Total number of records downloaded: 385
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Peru ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 10
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "estrilda astrild" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "northern cardinal" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Crossoptilon harmani vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:niger order:galliformes" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+
+End of report.
