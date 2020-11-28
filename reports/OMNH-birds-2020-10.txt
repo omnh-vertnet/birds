@@ -1,0 +1,257 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 1605
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 72
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 29
+	Country: United Kingdom ; Times: 59
+	Country: Austria ; Times: 3
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 10
+	Country: Venezuela ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 3
+	Date: 2020-10-19 ; Times: 2
+	Date: 2020-10-08 ; Times: 6
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-13 ; Times: 88
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-11 ; Times: 2
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-17 ; Times: 6
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-23 ; Times: 12
+	Date: 2020-10-22 ; Times: 11
+	Date: 2020-10-21 ; Times: 4
+	Date: 2020-10-20 ; Times: 4
+	Date: 2020-10-26 ; Times: 3
+	Date: 2020-10-01 ; Times: 5
+	Date: 2020-10-29 ; Times: 4
+	Date: 2020-10-28 ; Times: 9
+	Date: 2020-10-05 ; Times: 3
+	Date: 2020-10-04 ; Times: 2
+	Date: 2020-10-07 ; Times: 5
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-06 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "genus:Pipilo class:Aves year &gt;= 1980 year &lt;= 1988 institutioncode:OMNH" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 1
+	Query: "Sterna paradisaea" ; Times: 1
+	Query: "scientificname:Threskiornis aethiopicus" ; Times: 1
+	Query: "Himantopus himantopus" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "screech owl" ; Times: 1
+	Query: "genus:Ammodramus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "spinus cucullatus" ; Times: 3
+	Query: "Black-throated Blue Warbler" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 8
+	Query: "specificepithet:albifrons genus:Sternula" ; Times: 1
+	Query: "hyacinth macaw" ; Times: 2
+	Query: "semipalmated plover" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "scientificname:Tadorna ferruginea" ; Times: 1
+	Query: "yellow-billed cuckoo" ; Times: 1
+	Query: "scientificname:Psittacula eupatria" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Setophaga class:Aves hastissue:1" ; Times: 3
+	Query: "mappable:1 scientificname:Picoides borealis" ; Times: 3
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 2015 year &lt;= 2020" ; Times: 1
+	Query: "northern flicker" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 1
+	Query: "OMNH 15347" ; Times: 2
+	Query: "gbifdatasetid:84b018de-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "scientificname:Aburria aburri" ; Times: 1
+	Query: "passer domesticus oklahoma" ; Times: 1
+	Query: "Larus argentatus" ; Times: 1
+	Query: "red-naped sapsucker" ; Times: 1
+	Query: "ruby-throated hummingbird" ; Times: 1
+	Query: "specificepithet:swainsonii genus:limnothlypis" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "golden-winged warbler" ; Times: 1
+	Query: "sternula albifrons" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 2
+	Query: "campephilus imperialis" ; Times: 2
+	Query: "lesser scaup" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "(12009)" ; Times: 1
+	Query: "white-winged dove" ; Times: 1
+	Query: "locality:KERR WILDLIFE MANAGEMENT AREA" ; Times: 1
+	Query: "Pluvialis dominica" ; Times: 1
+	Query: "Phalacrocorax penicillatus" ; Times: 1
+	Query: "scientificname:Ortalis motmot" ; Times: 1
+	Query: "Coturnicops" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 4
+	Query: "sandhill crane" ; Times: 1
+	Query: "specificepithet:aurifrons genus:Melanerpes basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "OMNH 4921" ; Times: 1
+	Query: "Pluvialis squatarola" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "specificepithet:scandiacus genus:Bubo" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "Rissa tridactyla" ; Times: 1
+	Query: "Anser anser" ; Times: 1
+	Query: "Phalacrocorax pelagicus" ; Times: 1
+	Query: "specificepithet:georgicus genus:Pelecanoides" ; Times: 1
+	Query: "Ptychoramphus aleuticus" ; Times: 1
+	Query: "Stercorarius parasiticus" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer locality:south east" ; Times: 1
+	Query: "Thalasseus elegans" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "melanerpes carolinus skeleton" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 1
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "Black-necked Stilt" ; Times: 1
+	Query: "genus:Pipilo class:Aves year &gt;= 1981 year &lt;= 1988" ; Times: 1
+	Query: "OMNH 23783" ; Times: 1
+	Query: "stork" ; Times: 1
+	Query: "recordedby:Labedz" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 24
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Creagrus furcatus" ; Times: 1
+	Query: "vntype:specimen genus:Foulehaio" ; Times: 1
+	Query: "Larus heermanni" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Xema sabini" ; Times: 1
+	Query: "scientificname:Penelope purpurascens" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Recurvirostra americana" ; Times: 1
+	Query: "specificepithet:aedon genus:troglodytes stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Butastur indicus" ; Times: 1
+	Query: "10431" ; Times: 1
+	Query: "Himantopus mexicanus" ; Times: 1
+	Query: "scientificname:Crax rubra" ; Times: 1
+	Query: "mountain chickadee" ; Times: 1
+	Query: "specificepithet:scandiacus genus:Bubo hastissue:1" ; Times: 1
+	Query: "Turdus nigriceps" ; Times: 1
+	Query: "oklahoma state university" ; Times: 1
+	Query: "COmmon Yellowthroat" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "scientificname:Anser cygnoides" ; Times: 1
+	Query: "10766" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "scientificname:Ortalis vetula" ; Times: 2
+	Query: "&#34;Black-throated Blue Warbler&#34; year &gt;= 1800 year &lt;= 1980" ; Times: 1
+	Query: "coal oil point" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:cardinalis genus:cardinalis country:&#34;United States&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "scientificname:Penelope jacquacu" ; Times: 1
+	Query: "12803" ; Times: 2
+	Query: "collared plover" ; Times: 1
+	Query: "saltatricula multicolor" ; Times: 5
+	Query: "Larus occidentalis" ; Times: 1
+	Query: "Porphyrio porphyrio" ; Times: 1
+	Query: "black-bellied plover" ; Times: 1
+	Query: "Phalacrocorax auritus" ; Times: 1
+	Query: "Haematopus ostralegus" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1521 download events in this period)
+Total number of records downloaded: 792
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 23
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-23 ; Times: 7
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 6
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 3
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-06 ; Times: 3
+	Date: 2020-10-30 ; Times: 2
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "aves paraguay" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "genus:Melanerpes aurifrons country:&#34;México&#34;" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "Rupicola peruvianus" ; Times: 1
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Melanerpes country:&#34;México&#34;" ; Times: 2
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:myrmecocichla" ; Times: 1
+	Query: "family:Alcidae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "white-winged dove" ; Times: 1
+	Query: "passer domesticus oklahoma" ; Times: 1
+	Query: "genus:thryomanes hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Ramphastidae" ; Times: 1
+	Query: "&#34;Black-throated Blue Warbler&#34; year &gt;= 1800 year &lt;= 1980" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen family:Lybiidae" ; Times: 1
+	Query: "Dromaiidae" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:cardinalis genus:cardinalis country:&#34;United States&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "skin vntype:specimen genus:Nucifraga columbiana country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "Calcariidae hastissue:1" ; Times: 1
+	Query: "specificepithet:hyacinthinus genus:Anodorhynchus" ; Times: 1
+	Query: "bald eagle" ; Times: 2
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinosa genus:Jacana" ; Times: 1
+	Query: "family:Odontophoridae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+
+
+End of report.
