@@ -1,0 +1,243 @@
+Report for Institution Code OMNH, Resource birds
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 199
+Number of records retrieved in searches: 1897
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 32
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 92
+	Country: Spain ; Times: 2
+	Country: Peru ; Times: 5
+	Country: Belgium ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 47
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-31 ; Times: 9
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-08 ; Times: 3
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-06 ; Times: 5
+	Date: 2020-12-04 ; Times: 72
+	Date: 2020-12-03 ; Times: 11
+	Date: 2020-12-02 ; Times: 8
+	Date: 2020-12-01 ; Times: 11
+	Date: 2020-12-25 ; Times: 5
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-20 ; Times: 9
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-22 ; Times: 6
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-10 ; Times: 4
+	Date: 2020-12-11 ; Times: 35
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-13 ; Times: 5
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-16 ; Times: 2
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "setophaga coronata x auduboni" ; Times: 1
+	Query: "Eurillas virens" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 1
+	Query: "Pseudocolopteryx acutipennis" ; Times: 1
+	Query: "Columba argentina" ; Times: 2
+	Query: "mappable:1 scientificname:Rynchops niger" ; Times: 1
+	Query: "mallard" ; Times: 2
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "gyps fulvus" ; Times: 1
+	Query: "genus:uria country:&#34;canada&#34;" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 3
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "Vestiaria coccinea" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Loxia leucoptera" ; Times: 2
+	Query: "mappable:1 scientificname:Arenaria interpres" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 2
+	Query: "Agelaioides badius" ; Times: 2
+	Query: "genus:Thalasseus hastissue:1" ; Times: 1
+	Query: "Pelecanus occidentalis" ; Times: 1
+	Query: "vliet" ; Times: 1
+	Query: "limosa haemastica" ; Times: 4
+	Query: "Panurus biarmicus" ; Times: 2
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Piranga ludoviciana" ; Times: 2
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "mappable:1 scientificname:Cathartes aura" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 2
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "mappable:1 scientificname:Nycticorax nycticorax" ; Times: 2
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "mappable:1 scientificname:Ardea alba" ; Times: 1
+	Query: "Ovenbird" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "Plegadis chihi" ; Times: 1
+	Query: "mappable:1 scientificname:Egretta thula" ; Times: 1
+	Query: "catalognumber:18029.0 institutioncode:OMNH" ; Times: 1
+	Query: "yellow-throated warbler" ; Times: 1
+	Query: "mappable:1 scientificname:Molothrus bonariensis" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "mappable:1 scientificname:Nyctanassa violacea" ; Times: 1
+	Query: "mappable:1 scientificname:Nyctidromus albicollis" ; Times: 1
+	Query: "Fulica americana" ; Times: 1
+	Query: "Calonectris diomedea" ; Times: 1
+	Query: "Phrygilus carbonarius" ; Times: 1
+	Query: "ammoperdix griseogularis" ; Times: 3
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Ring-billed Gull" ; Times: 1
+	Query: "12880" ; Times: 1
+	Query: "Buteo lineatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:harpyja genus:Harpia" ; Times: 2
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 3
+	Query: "Todus todus" ; Times: 1
+	Query: "Chrysomus ruficapillus" ; Times: 2
+	Query: "Butorides striata" ; Times: 1
+	Query: "12995" ; Times: 1
+	Query: "Spiza americana" ; Times: 1
+	Query: "mappable:1 scientificname:Actitis macularius" ; Times: 1
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "Molothrus bonariensis" ; Times: 1
+	Query: "Sicalis olivascens" ; Times: 1
+	Query: "Passerina amoena" ; Times: 2
+	Query: "mappable:1 scientificname:Columbina passerina" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "mappable:1 scientificname:Crotophaga ani" ; Times: 1
+	Query: "Anser anser" ; Times: 1
+	Query: "Bombycilla cedrorum" ; Times: 1
+	Query: "recordedby:Lanier institutioncode:OMNH" ; Times: 1
+	Query: "mappable:1 scientificname:Ixobrychus exilis" ; Times: 1
+	Query: "Sturnella militaris" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "mappable:1 scientificname:Podilymbus podiceps" ; Times: 2
+	Query: "vliet -kent" ; Times: 4
+	Query: "ovenbird" ; Times: 1
+	Query: "Spilornis cheela" ; Times: 1
+	Query: "Cygnus melancoryphus" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 1
+	Query: "vultur gryphus" ; Times: 3
+	Query: "western tanager" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 2
+	Query: "hawks" ; Times: 1
+	Query: "Turdoides affinis" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 4
+	Query: "Branta canadensis" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "Satrapa icterophrys" ; Times: 1
+	Query: "specificepithet:viridigenalis genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Conirostrum speciosum" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 2
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "geothlypis philadelphia" ; Times: 1
+	Query: "OMNH 23496" ; Times: 1
+	Query: "Alophoixus pallidus" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "recordedby:nice" ; Times: 2
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "mappable:1 scientificname:Tyto alba" ; Times: 2
+	Query: "mappable:1 scientificname:Athene cunicularia" ; Times: 2
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Chrysomus icterocephalus" ; Times: 1
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "Piranga erythrocephala" ; Times: 1
+	Query: "Sturnella magna" ; Times: 1
+	Query: "mappable:1 scientificname:Anhinga anhinga" ; Times: 2
+	Query: "Icterus bullockii" ; Times: 2
+	Query: "mappable:1 scientificname:Bubulcus ibis" ; Times: 1
+	Query: "Steatornis caripensis" ; Times: 1
+	Query: "Gracupica nigricollis" ; Times: 1
+	Query: "bubo scandiacus" ; Times: 1
+	Query: "Purple finch" ; Times: 2
+	Query: "mappable:1 scientificname:Egretta caerulea" ; Times: 1
+	Query: "Molothrus aeneus" ; Times: 1
+	Query: "17519" ; Times: 1
+	Query: "Icteria virens" ; Times: 2
+	Query: "Indian woodpecker" ; Times: 1
+	Query: "Barn Swallow vntype:specimen" ; Times: 1
+	Query: "Piranga olivacea" ; Times: 1
+	Query: "mappable:1 scientificname:Parabuteo unicinctus" ; Times: 1
+	Query: "Turdus nigriceps" ; Times: 2
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "peregrine" ; Times: 1
+	Query: "Spinus pinus" ; Times: 1
+	Query: "Amazona autumnalis vntype:specimen" ; Times: 2
+	Query: "Tachycineta albilinea" ; Times: 2
+	Query: "Leucophaeus atricilla" ; Times: 2
+	Query: "Plectrophenax nivalis" ; Times: 1
+	Query: "mappable:1 scientificname:Chordeiles acutipennis" ; Times: 1
+	Query: "mappable:1 scientificname:Mycteria americana" ; Times: 1
+	Query: "specificepithet:viridigenalis genus:amazona year &lt;= 1960" ; Times: 1
+	Query: "catalognumber:17029.0 institutioncode:OMNH" ; Times: 1
+	Query: "geothlypis philadelphia x tolmiei" ; Times: 1
+	Query: "vntype:specimen specificepithet:dominica genus:Setophaga" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 1
+	Query: "Apalis flavida" ; Times: 1
+	Query: "Acanthis flammea" ; Times: 2
+	Query: "specificepithet:imperialis genus:campephilus" ; Times: 1
+	Query: "mappable:1 scientificname:Gallinula galeata" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "11258" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "catalognumber:1029.0 institutioncode:OMNH" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Indian Woodpecker" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 705 download events in this period)
+Total number of records downloaded: 1921
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 11
+	Country: India ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "family:Trochilidae preparations:wing" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:dominica genus:Setophaga" ; Times: 2
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 3
+	Query: "family:anatidae" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+
+
+End of report.
